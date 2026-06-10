@@ -32,8 +32,8 @@ Decimal phases appear between their surrounding integers in numeric order.
   5. `npm run build` completes without errors after all foundation changes
 **Plans**: 3 plans
 Plans:
-- [ ] 01-PLAN-A.md — Foundation cleanup: .gitignore, brand config, Footer tagline, Tailwind tokens
-- [ ] 01-PLAN-B.md — i18n infrastructure: next-intl install, routing/request config, messages, locale layout
+- [x] 01-PLAN-A.md — Foundation cleanup: .gitignore, brand config, Footer tagline, Tailwind tokens
+- [x] 01-PLAN-B.md — i18n infrastructure: next-intl install, routing/request config, messages, locale layout
 - [ ] 01-PLAN-C.md — i18n wiring: root redirect, locale pages, not-found, language switcher in Navbar
 
 ### Phase 2: Home & Navigation
@@ -86,7 +86,7 @@ Phases execute in numeric order: 1 → 2 → 3 → 4
 
 | Phase | Plans Complete | Status | Completed |
 |-------|----------------|--------|-----------|
-| 1. Foundation & i18n | 0/3 | Ready to execute | - |
+| 1. Foundation & i18n | 2/3 | In progress | - |
 | 2. Home & Navigation | 0/2 | Ready to execute (after Phase 1) | - |
 | 3. Interior Pages | 0/TBD | Not started | - |
 | 4. Launch Prep | 0/TBD | Not started | - |
