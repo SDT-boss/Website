@@ -63,8 +63,13 @@ Plans:
   3. `/[locale]/work` shows the EV Fleet Operations project card plus at least 2 ghost "Coming soon" cards with dashed borders
   4. `/[locale]/about` opens with a belief statement (not a founding story) and its contact CTA uses the cyber-jade outline button
   5. `generateStaticParams` covers all slug × locale combinations and `dynamicParams = false` is set; `npm run build` succeeds
-**Plans**: TBD
-**UI hint**: yes
+**Plans**: 5 plans
+Plans:
+- [ ] 03-01-PLAN.md — Shared data: lib/solutions.ts typed data file (slug, status, icon, order)
+- [ ] 03-02-PLAN.md — Solutions index slice: translation keys + PageHero + SolutionsGrid + solutions/page.tsx
+- [ ] 03-03-PLAN.md — Work page slice: translation keys + WorkCard + GhostCard + work/page.tsx
+- [ ] 03-04-PLAN.md — About page slice: translation keys + BeliefGrid + CurrentFocusParagraph + about/page.tsx
+- [ ] 03-05-PLAN.md — Solution detail slice: all 4 solution detail translation keys + SolutionDetailHero + CapabilityList + WhoThisIsFor + [slug]/page.tsx
 
 ### Phase 4: Launch Prep
 **Goal**: The site is technically complete for public launch — proper metadata, SEO files, a branded 404, and a live Vercel deploy connected to sdt.technology — but held from public traffic until the owner gives explicit approval
@@ -88,5 +93,5 @@ Phases execute in numeric order: 1 → 2 → 3 → 4
 |-------|----------------|--------|-----------|
 | 1. Foundation & i18n | 2/3 | In progress | - |
 | 2. Home & Navigation | 2/2 | Complete | 2026-06-10 |
-| 3. Interior Pages | 0/TBD | Not started | - |
+| 3. Interior Pages | 0/5 | Not started | - |
 | 4. Launch Prep | 0/TBD | Not started | - |
