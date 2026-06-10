@@ -1,5 +1,5 @@
 {
-  "_reviewNote": "AUTO-TRANSLATED SCAFFOLD — owner must review before launch",
+  "_reviewNote": "Auto-translated scaffolding — owner review required before launch",
   "nav": {
     "solutions": "Solusi",
     "work": "Pekerjaan",
@@ -7,18 +7,52 @@
     "getInTouch": "Hubungi kami"
   },
   "home": {
-    "heroTitle": "Infrastruktur untuk operasi yang cerdas.",
-    "heroSub": "SDT membangun perangkat lunak untuk mobilitas armada, perangkat keras IoT, kecerdasan logistik, dan operasi AI.",
-    "ctaLabel": "Lihat solusi kami"
+    "eyebrow": "OPERASI CERDAS",
+    "heroLine1": "Infrastruktur untuk",
+    "heroLine2": "operasi cerdas.",
+    "heroSub": "Kami membangun perangkat lunak yang menjalankan operasi armada, logistik, dan industri di dunia nyata.",
+    "ctaLabel": "Mulai percakapan",
+    "solutionsEyebrow": "APA YANG KAMI BANGUN",
+    "solutionsHeading": "Empat kemampuan. Satu platform.",
+    "approachEyebrow": "CARA KAMI BEKERJA",
+    "approachHeading": "Dibangun berbeda, dengan sengaja.",
+    "workEyebrow": "PEKERJAAN KAMI",
+    "workHeading": "Sudah diproduksi.",
+    "seeOurWork": "Lihat pekerjaan kami →",
+    "footerCtaHeading": "Ingin bekerja sama dengan kami?",
+    "footerCtaSub": "Kami menerima sejumlah kecil klien. Jika masalah Anda sulit dan taruhannya nyata, mari bicara.",
+    "footerCtaButton": "Hubungi kami"
   },
   "solutions": {
-    "pageTitle": "Solusi"
+    "pageTitle": "Solusi",
+    "card1Title": "Armada & Mobilitas EV",
+    "card1Desc": "Perangkat lunak operasi real-time untuk armada listrik dan campuran",
+    "card1Tag": "Armada",
+    "card2Title": "IoT & Perangkat Keras",
+    "card2Desc": "Perangkat tepi dan jaringan sensor untuk lingkungan industri",
+    "card2Tag": "IoT",
+    "card3Title": "Kecerdasan Logistik",
+    "card3Desc": "Optimasi rute, jadwal, dan muatan untuk operasi darat",
+    "card3Tag": "Logistik",
+    "card4Title": "Operasi AI",
+    "card4Desc": "Deteksi anomali, model prediktif, dan otomasi keputusan",
+    "card4Tag": "AI"
   },
   "work": {
-    "pageTitle": "Pekerjaan"
+    "pageTitle": "Pekerjaan",
+    "evFleetTitle": "Operasi Armada EV",
+    "evFleetDesc": "Platform operasi end-to-end untuk armada kendaraan listrik — pelacakan real-time, manajemen pengisian daya, dan pengiriman."
   },
   "about": {
     "pageTitle": "Tentang"
+  },
+  "approach": {
+    "item1Title": "Sadar perangkat keras",
+    "item1Body": "Kami merancang perangkat lunak yang berjalan di mesin nyata dalam kondisi nyata — bukan demo cloud.",
+    "item2Title": "Data adalah prioritas",
+    "item2Body": "Setiap fitur dimulai dengan model data. Jika tidak dapat diukur, kami tidak akan membangunnya.",
+    "item3Title": "Dibangun untuk skala",
+    "item3Body": "Sistem berjalan dari pilot ke produksi tanpa penulisan ulang. Keputusan arsitektur dibuat lebih awal."
   },
   "footer": {
     "tagline": "Infrastruktur untuk operasi yang cerdas.",
