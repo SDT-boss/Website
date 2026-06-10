@@ -43,6 +43,15 @@ export function Navbar() {
           Get in touch
         </a>
 
+        {/* Language switcher — hidden on mobile (Phase 2: integrate into hamburger menu) */}
+        <div className="hidden md:flex items-center gap-1 text-xs font-medium shrink-0">
+          <Link href="/en" className="text-white">EN</Link>
+          <span className="text-text-muted">|</span>
+          <Link href="/id" className="text-text-secondary hover:text-white transition-colors duration-150 ease-out">ID</Link>
+          <span className="text-text-muted">|</span>
+          <Link href="/zh" className="text-text-secondary hover:text-white transition-colors duration-150 ease-out">ZH</Link>
+        </div>
+
       </div>
     </header>
   );
