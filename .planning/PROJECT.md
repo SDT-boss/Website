@@ -2,7 +2,7 @@
 
 ## What This Is
 
-Marketing and brand website for PT SDT Tech Indonesia, a B2B technology company building intelligent operations software for fleet management, IoT/hardware, logistics, and AI-driven operations. The site presents the company's capabilities to enterprise buyers and operators, establishes credibility through a Palantir/Coinbase-inspired aesthetic (serious, data-confident, dark), and drives inbound contact via a single primary CTA per page.
+Marketing and brand website for PT SDT Technology, a B2B technology company building intelligent operations software for fleet management, IoT/hardware, logistics, and AI-driven operations. The site presents the company's capabilities to enterprise buyers and operators, establishes credibility through a Palantir/Coinbase-inspired aesthetic (serious, data-confident, dark), and drives inbound contact via a single primary CTA per page.
 
 ## Core Value
 
@@ -44,7 +44,9 @@ Marketing and brand website for PT SDT Tech Indonesia, a B2B technology company 
 - Contact form — `mailto:` link is sufficient; no form backend needed
 - Analytics beyond Vercel — Vercel Analytics free tier is enough for v1
 - Mobile app — web-first; mobile app is a separate product
-- Multi-language / i18n — English-only for v1
+- Per-page dynamic OG images — use one shared static og.png for v1
+- Blog / articles — deferred to v2
+- Team headshots, press, careers, newsletter, pricing
 
 ## Context
 
