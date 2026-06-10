@@ -57,8 +57,8 @@ Exactly 4 rows. H3 card titles use Body size (16px) with font-bold weight — se
 
 | Role | Size | Weight | Line Height | Letter Spacing | Usage |
 |------|------|--------|-------------|----------------|-------|
-| Label / Eyebrow | 12px (`text-xs`) | 500 (`font-medium`) | default | `tracking-widest` + uppercase | Section eyebrows, badge text, status tags |
-| Body | 16px (`text-base`) | 400–700 (`font-normal` / `font-medium` / `font-bold`) | 1.6 (`leading-relaxed`) | default | Descriptive paragraphs, card body, capability bullets; H3 card titles use this size at `font-bold` |
+| Label / Eyebrow | 12px (`text-xs`) | 400 (`font-normal`) | default | `tracking-widest` + uppercase | Section eyebrows, badge text, status tags — visually distinct via spacing + case, not weight |
+| Body | 16px (`text-base`) | 400 (`font-normal`) | 1.6 (`leading-relaxed`) | default | Descriptive paragraphs, card body, capability bullets |
 | Heading (H2) | 30–36px (`text-3xl` / `md:text-4xl`) | 700 (`font-bold`) | 1.25 (`leading-tight` / `leading-snug`) | `-0.02em` (`tracking-tight`) | Page section headings (H2 only) |
 | Display (H1) | 48–72px (`text-5xl` / `md:text-6xl` / `lg:text-7xl`) | 700 (`font-bold`) | 1 (`leading-none`) | `-0.04em` (`tracking-tighter`) | Page hero headings only (solutions index, about, work) |
 
@@ -125,13 +125,13 @@ Source: `DESIGN.md`, `tailwind.config.ts`, `components/home/WorkTeaser.tsx`, `co
 
 | Component | Purpose | Key visual pattern |
 |-----------|---------|-------------------|
-| `PageHero` | Reusable hero block for interior pages | Eyebrow + H1 (display) + optional sub-paragraph, no dot-grid, `bg-background`, centered |
+| `PageHero` | Reusable hero block for interior pages | Eyebrow (`text-xs font-normal tracking-widest uppercase`) + H1 (display) + optional sub-paragraph, no dot-grid, `bg-background`, centered |
 | `SolutionDetailHero` | Per-solution hero | Status badge + H1 + problem statement paragraph + "Who this is for" callout |
-| `CapabilityList` | Ordered list of capabilities | Numbered items `01 / 02 / 03` in cyber-jade/20 accent, title (`text-base font-bold`) + body per item |
-| `WhoThisIsFor` | Callout block on detail pages | `border-l-2 border-cyber-jade pl-4`, label eyebrow + body text |
+| `CapabilityList` | Ordered list of capabilities | Numbered items `01 / 02 / 03` in cyber-jade/20 accent, title (`text-base font-bold`) + body (`text-base font-normal`) per item |
+| `WhoThisIsFor` | Callout block on detail pages | `border-l-2 border-cyber-jade pl-4`, label eyebrow (`text-xs font-normal tracking-widest uppercase`) + body text |
 | `WorkCard` | Full work page project card | Same visual as WorkTeaser card but with tag array, expanded description |
 | `GhostCard` | Coming-soon placeholder | Dashed border, centered "Coming soon" text in `text-text-muted`, same dimensions as WorkCard |
-| `BeliefGrid` | About page 3-column belief statements | 3-col grid on md+, numbered accent (cyber-jade/20) + `text-base font-bold` title + body per belief |
+| `BeliefGrid` | About page 3-column belief statements | 3-col grid on md+, numbered accent (cyber-jade/20) + `text-base font-bold` title + `text-base font-normal` body per belief |
 | `SolutionsGrid` | 4-up grid linking to detail pages | 2-col on md, navigable `<Link>` wrapper on `SolutionCard` |
 
 ---
@@ -164,7 +164,7 @@ FooterCTA section OR inline cyber-jade outline mailto CTA at bottom
 ```
 
 - Status badge positioned above H1, self-start aligned left
-- Problem statement: `text-base text-text-secondary leading-relaxed` — full paragraph, NOT a bullet
+- Problem statement: `text-base font-normal text-text-secondary leading-relaxed` — full paragraph, NOT a bullet
 - Capabilities come AFTER problem statement (SOL-04 requirement: problem-first)
 - No Volt Green on detail pages
 
@@ -195,7 +195,7 @@ FooterCTA: cyber-jade outline mailto button (ABOUT-02)
 
 - H1 on about is a belief/observation: e.g., "Infrastructure should outlast the problem it solves."
 - No headshots (ABOUT-01)
-- BeliefGrid: `md:grid-cols-3 gap-8`, each cell has a numbered accent (cyber-jade/20), `text-base font-bold` title, body paragraph
+- BeliefGrid: `md:grid-cols-3 gap-8`, each cell has a numbered accent (cyber-jade/20), `text-base font-bold` title, `text-base font-normal` body paragraph
 
 ---
 
