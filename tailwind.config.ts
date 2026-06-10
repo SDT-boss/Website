@@ -23,10 +23,10 @@ const config: Config = {
         "border-subtle": "#2a2a2a",
         "text-secondary":"#a1a1aa",
         "text-muted":    "#52525b",
+        background:      "#0a0a0a",
       },
       fontFamily: {
         sans: ["var(--font-inter)", "ui-sans-serif", "system-ui", "sans-serif"],
-        mono: ["var(--font-geist-mono)", "ui-monospace", "monospace"],
       },
       letterSpacing: {
         tight: "-0.02em",

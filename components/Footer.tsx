@@ -28,7 +28,7 @@ export function Footer() {
             {siteConfig.email}
           </a>
           <p className="text-text-muted text-xs">
-            Built for intelligent operations.
+            {siteConfig.tagline}
           </p>
         </div>
 

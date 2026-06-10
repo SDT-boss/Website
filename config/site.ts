@@ -1,6 +1,6 @@
-// Replace "YourCo" with the actual company name.
+// SDT tech — sdt.technology
 export const siteConfig = {
-  name: "YourCo",
+  name: "SDT",
   tagline: "Infrastructure for intelligent operations.",
-  email: "hello@yourco.com",
+  email: "sdttech.co@gmail.com",
 } as const;
