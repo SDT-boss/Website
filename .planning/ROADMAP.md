@@ -30,7 +30,11 @@ Decimal phases appear between their surrounding integers in numeric order.
   3. Navigating to `localhost:3000/en`, `localhost:3000/id`, and `localhost:3000/zh` all resolve without 404
   4. Switching language via the navbar switcher updates visible page text without a full reload
   5. `npm run build` completes without errors after all foundation changes
-**Plans**: TBD
+**Plans**: 3 plans
+Plans:
+- [ ] 01-PLAN-A.md — Foundation cleanup: .gitignore, brand config, Footer tagline, Tailwind tokens
+- [ ] 01-PLAN-B.md — i18n infrastructure: next-intl install, routing/request config, messages, locale layout
+- [ ] 01-PLAN-C.md — i18n wiring: root redirect, locale pages, not-found, language switcher in Navbar
 
 ### Phase 2: Home & Navigation
 **Goal**: A visitor landing on the home page experiences the full intended design — hero, solutions strip, approach section, work teaser, and footer CTA — with a navbar that highlights the current page and collapses correctly on mobile
@@ -80,7 +84,7 @@ Phases execute in numeric order: 1 → 2 → 3 → 4
 
 | Phase | Plans Complete | Status | Completed |
 |-------|----------------|--------|-----------|
-| 1. Foundation & i18n | 0/TBD | Not started | - |
+| 1. Foundation & i18n | 0/3 | Ready to execute | - |
 | 2. Home & Navigation | 0/TBD | Not started | - |
 | 3. Interior Pages | 0/TBD | Not started | - |
 | 4. Launch Prep | 0/TBD | Not started | - |
