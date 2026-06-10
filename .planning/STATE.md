@@ -16,14 +16,14 @@ progress:
 See: .planning/PROJECT.md (updated 2026-06-10)
 
 **Core value:** A potential enterprise customer lands on the site and immediately understands what SDT tech builds, trusts the quality, and knows how to reach us.
-**Current focus:** Phase 1 — Foundation & i18n
+**Current focus:** Phase 2 — Home & Navigation
 
 ## Current Position
 
-Phase: 1 of 4 (Foundation & i18n)
-Plan: 2 of 3 in current phase
-Status: In progress — Wave 1 complete, Wave 2 executing (Plan C)
-Last activity: 2026-06-10 — Phase 2 planned (2 plans: 02-01 navigation foundation, 02-02 home page sections)
+Phase: 2 of 4 (Home & Navigation)
+Plan: 1 of 2 in current phase
+Status: In progress — Wave 1 complete (02-01 approved), Wave 2 starting (02-02 home sections)
+Last activity: 2026-06-10 — Phase 2 Wave 1 complete; i18n/navigation.ts created, Navbar refactored to Client Component, human checkpoint approved
 
 Progress: [░░░░░░░░░░] 0%
 
