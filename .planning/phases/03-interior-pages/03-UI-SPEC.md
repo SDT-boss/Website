@@ -53,18 +53,22 @@ Source: `components/home/*.tsx` (all sections uniform), `DESIGN.md`
 
 ## Typography
 
+Exactly 4 rows. H3 card titles use Body size (16px) with font-bold weight — see note below.
+
 | Role | Size | Weight | Line Height | Letter Spacing | Usage |
 |------|------|--------|-------------|----------------|-------|
-| Body | 16px (`text-base`) | 500 (`font-medium`) | 1.6 (`leading-relaxed`) | default | Descriptive paragraphs, card body, capability bullets |
 | Label / Eyebrow | 12px (`text-xs`) | 500 (`font-medium`) | default | `tracking-widest` + uppercase | Section eyebrows, badge text, status tags |
-| Heading (H2/H3) | H2: 30–36px (`text-3xl`/`md:text-4xl`); H3: 18px (`text-lg`) | 700 (`font-bold`) | 1.25 (`leading-tight` / `leading-snug`) | `-0.02em` (`tracking-tight`) | Page section headings, card titles |
-| Display (H1) | 48–72px (`text-5xl`/`md:text-6xl`/`lg:text-7xl`) | 700 (`font-bold`) | 1 (`leading-none`) | `-0.04em` (`tracking-tighter`) | Page hero headings only (solutions index, about, work) |
+| Body | 16px (`text-base`) | 400–700 (`font-normal` / `font-medium` / `font-bold`) | 1.6 (`leading-relaxed`) | default | Descriptive paragraphs, card body, capability bullets; H3 card titles use this size at `font-bold` |
+| Heading (H2) | 30–36px (`text-3xl` / `md:text-4xl`) | 700 (`font-bold`) | 1.25 (`leading-tight` / `leading-snug`) | `-0.02em` (`tracking-tight`) | Page section headings (H2 only) |
+| Display (H1) | 48–72px (`text-5xl` / `md:text-6xl` / `lg:text-7xl`) | 700 (`font-bold`) | 1 (`leading-none`) | `-0.04em` (`tracking-tighter`) | Page hero headings only (solutions index, about, work) |
+
+**H3 treatment note:** H3-level elements (BeliefGrid titles, card titles) use `text-base font-bold` (16px / weight 700). Differentiation from body text is by weight only, not size. This caps the effective type scale at 4 sizes.
 
 Notes:
 - Interior page H1 heroes use display scale: `text-5xl md:text-6xl` with `tracking-tighter leading-none` — one size down from home hero (`lg:text-7xl`) since these are sub-pages.
 - "Who this is for" callout uses body size (16px) at `text-text-secondary` with a left `border-l-2 border-cyber-jade` treatment.
-- Belief statements on About use H3 (18px/700) with body paragraph below.
-- Problem statement on solution detail uses body (16px) in a visually distinct block — larger text-secondary paragraph before the capabilities list, no special size increase.
+- BeliefGrid belief titles use `text-base font-bold` (H3-equivalent) with body paragraph below.
+- Problem statement on solution detail uses body (16px) in a visually distinct block — `text-text-secondary` paragraph before the capabilities list, no special size increase.
 
 Source: `DESIGN.md` typography table, `components/home/HeroSection.tsx`, `components/home/ApproachSection.tsx`
 
@@ -123,11 +127,11 @@ Source: `DESIGN.md`, `tailwind.config.ts`, `components/home/WorkTeaser.tsx`, `co
 |-----------|---------|-------------------|
 | `PageHero` | Reusable hero block for interior pages | Eyebrow + H1 (display) + optional sub-paragraph, no dot-grid, `bg-background`, centered |
 | `SolutionDetailHero` | Per-solution hero | Status badge + H1 + problem statement paragraph + "Who this is for" callout |
-| `CapabilityList` | Ordered list of capabilities | Numbered items `01 / 02 / 03` in cyber-jade/20 accent, title + body per item |
+| `CapabilityList` | Ordered list of capabilities | Numbered items `01 / 02 / 03` in cyber-jade/20 accent, title (`text-base font-bold`) + body per item |
 | `WhoThisIsFor` | Callout block on detail pages | `border-l-2 border-cyber-jade pl-4`, label eyebrow + body text |
 | `WorkCard` | Full work page project card | Same visual as WorkTeaser card but with tag array, expanded description |
 | `GhostCard` | Coming-soon placeholder | Dashed border, centered "Coming soon" text in `text-text-muted`, same dimensions as WorkCard |
-| `BeliefGrid` | About page 3-column belief statements | 3-col grid on md+, icon/number accent + heading + body per belief |
+| `BeliefGrid` | About page 3-column belief statements | 3-col grid on md+, numbered accent (cyber-jade/20) + `text-base font-bold` title + body per belief |
 | `SolutionsGrid` | 4-up grid linking to detail pages | 2-col on md, navigable `<Link>` wrapper on `SolutionCard` |
 
 ---
@@ -135,6 +139,8 @@ Source: `DESIGN.md`, `tailwind.config.ts`, `components/home/WorkTeaser.tsx`, `co
 ## Page-Level Layout Contracts
 
 ### Solutions Index (`/[locale]/solutions`)
+
+**Primary focal point:** PageHero H1 + eyebrow. Secondary focal point: SolutionsGrid top-left card.
 
 ```
 PageHero: eyebrow + "Solutions" H1 + 1-line sub
@@ -147,6 +153,8 @@ SolutionsGrid: 2-col md grid of 4 SolutionCards (each wrapped in <Link href="/so
 - Bottom: `FooterCTA` section (cyber-jade outline)
 
 ### Solution Detail (`/[locale]/solutions/[slug]`)
+
+**Primary focal point:** SolutionDetailHero H1 + status badge. Secondary focal point: CapabilityList first item.
 
 ```
 SolutionDetailHero: status badge + H1 (solution name) + problem statement paragraph
@@ -162,6 +170,8 @@ FooterCTA section OR inline cyber-jade outline mailto CTA at bottom
 
 ### Work Page (`/[locale]/work`)
 
+**Primary focal point:** PageHero H1 + eyebrow. Secondary focal point: EV Fleet WorkCard (sole live project).
+
 ```
 PageHero: eyebrow + "Our Work" H1 + 1-line sub
 WorkCard: EV Fleet Operations (real card with tags + full description)
@@ -174,6 +184,8 @@ GhostCard × 2: "Coming soon" dashed cards
 
 ### About Page (`/[locale]/about`)
 
+**Primary focal point:** PageHero H1 belief statement. Secondary focal point: BeliefGrid first column heading.
+
 ```
 PageHero: eyebrow + belief-statement H1 (NOT a founding story) + 1-line sub
 BeliefGrid: 3 belief statements in columns
@@ -183,7 +195,7 @@ FooterCTA: cyber-jade outline mailto button (ABOUT-02)
 
 - H1 on about is a belief/observation: e.g., "Infrastructure should outlast the problem it solves."
 - No headshots (ABOUT-01)
-- BeliefGrid: `md:grid-cols-3 gap-8`, each cell has a numbered accent (cyber-jade/20), H3 title, body paragraph
+- BeliefGrid: `md:grid-cols-3 gap-8`, each cell has a numbered accent (cyber-jade/20), `text-base font-bold` title, body paragraph
 
 ---
 
