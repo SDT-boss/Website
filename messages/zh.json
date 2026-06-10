@@ -1,0 +1,33 @@
+{
+  "_reviewNote": "AUTO-TRANSLATED SCAFFOLD — owner must review before launch",
+  "nav": {
+    "solutions": "解决方案",
+    "work": "项目案例",
+    "about": "关于我们",
+    "getInTouch": "联系我们"
+  },
+  "home": {
+    "heroTitle": "智能运营基础设施。",
+    "heroSub": "SDT 构建面向车队管理、物联网硬件、物流智能和 AI 运营的软件。",
+    "ctaLabel": "查看我们的解决方案"
+  },
+  "solutions": {
+    "pageTitle": "解决方案"
+  },
+  "work": {
+    "pageTitle": "项目案例"
+  },
+  "about": {
+    "pageTitle": "关于我们"
+  },
+  "footer": {
+    "tagline": "智能运营基础设施。",
+    "allRightsReserved": "版权所有。"
+  },
+  "common": {
+    "status": {
+      "live": "已上线",
+      "inDevelopment": "开发中"
+    }
+  }
+}
