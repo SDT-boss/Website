@@ -21,9 +21,9 @@ See: .planning/PROJECT.md (updated 2026-06-10)
 ## Current Position
 
 Phase: 2 of 4 (Home & Navigation)
-Plan: 1 of 2 in current phase
-Status: In progress — Wave 1 complete (02-01 approved), Wave 2 starting (02-02 home sections)
-Last activity: 2026-06-10 — Phase 2 Wave 1 complete; i18n/navigation.ts created, Navbar refactored to Client Component, human checkpoint approved
+Plan: 2 of 2 in current phase
+Status: Complete — all 2 plans executed, both human checkpoints approved
+Last activity: 2026-06-10 — Phase 2 complete; all 5 home sections live, 3-locale translations, active-state Navbar, mobile hamburger menu
 
 Progress: [░░░░░░░░░░] 0%
 

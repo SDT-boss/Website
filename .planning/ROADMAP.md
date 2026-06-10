@@ -50,7 +50,7 @@ Plans:
 **Plans**: 2 plans
 Plans:
 - [x] 02-01-PLAN.md — Navigation foundation: i18n/navigation.ts + Navbar refactor (active state, hamburger, language switcher upgrade)
-- [ ] 02-02-PLAN.md — Home page sections: .dot-grid CSS, translation key expansion, all 5 home sections, app/[locale]/page.tsx assembly
+- [x] 02-02-PLAN.md — Home page sections: .dot-grid CSS, translation key expansion, all 5 home sections, app/[locale]/page.tsx assembly
 
 ### Phase 3: Interior Pages
 **Goal**: Every interior page — solutions index, 4 solution detail pages, work, and about — is fully built and navigable so a buyer can explore the full company narrative
@@ -87,6 +87,6 @@ Phases execute in numeric order: 1 → 2 → 3 → 4
 | Phase | Plans Complete | Status | Completed |
 |-------|----------------|--------|-----------|
 | 1. Foundation & i18n | 2/3 | In progress | - |
-| 2. Home & Navigation | 1/2 | In progress | - |
+| 2. Home & Navigation | 2/2 | Complete | 2026-06-10 |
 | 3. Interior Pages | 0/TBD | Not started | - |
 | 4. Launch Prep | 0/TBD | Not started | - |
