@@ -1,4 +1,9 @@
 import { setRequestLocale } from "next-intl/server";
+import { HeroSection } from "@/components/home/HeroSection";
+import { SolutionsStrip } from "@/components/home/SolutionsStrip";
+import { ApproachSection } from "@/components/home/ApproachSection";
+import { WorkTeaser } from "@/components/home/WorkTeaser";
+import { FooterCTA } from "@/components/home/FooterCTA";
 
 export function generateStaticParams() {
   return [{ locale: "en" }, { locale: "id" }, { locale: "zh" }];
@@ -6,12 +11,21 @@ export function generateStaticParams() {
 
 export const dynamicParams = false;
 
-export default async function Home({ params }: { params: Promise<{ locale: string }> }) {
+export default async function Home({
+  params,
+}: {
+  params: Promise<{ locale: string }>;
+}) {
   const { locale } = await params;
   setRequestLocale(locale);
+
   return (
-    <main className="flex items-center justify-center min-h-[60vh]">
-      <p className="text-text-muted text-sm font-mono tracking-widest">— scaffold ready —</p>
-    </main>
+    <>
+      <HeroSection />
+      <SolutionsStrip />
+      <ApproachSection />
+      <WorkTeaser locale={locale} />
+      <FooterCTA />
+    </>
   );
 }
