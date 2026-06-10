@@ -1,0 +1,33 @@
+{
+  "_reviewNote": "AUTO-TRANSLATED SCAFFOLD — owner must review before launch",
+  "nav": {
+    "solutions": "Solusi",
+    "work": "Pekerjaan",
+    "about": "Tentang",
+    "getInTouch": "Hubungi kami"
+  },
+  "home": {
+    "heroTitle": "Infrastruktur untuk operasi yang cerdas.",
+    "heroSub": "SDT membangun perangkat lunak untuk mobilitas armada, perangkat keras IoT, kecerdasan logistik, dan operasi AI.",
+    "ctaLabel": "Lihat solusi kami"
+  },
+  "solutions": {
+    "pageTitle": "Solusi"
+  },
+  "work": {
+    "pageTitle": "Pekerjaan"
+  },
+  "about": {
+    "pageTitle": "Tentang"
+  },
+  "footer": {
+    "tagline": "Infrastruktur untuk operasi yang cerdas.",
+    "allRightsReserved": "Hak cipta dilindungi undang-undang."
+  },
+  "common": {
+    "status": {
+      "live": "Aktif",
+      "inDevelopment": "Dalam pengembangan"
+    }
+  }
+}

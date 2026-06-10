@@ -1,0 +1,32 @@
+{
+  "nav": {
+    "solutions": "Solutions",
+    "work": "Work",
+    "about": "About",
+    "getInTouch": "Get in touch"
+  },
+  "home": {
+    "heroTitle": "Infrastructure for intelligent operations.",
+    "heroSub": "SDT builds software for fleet mobility, IoT hardware, logistics intelligence, and AI operations.",
+    "ctaLabel": "See our solutions"
+  },
+  "solutions": {
+    "pageTitle": "Solutions"
+  },
+  "work": {
+    "pageTitle": "Work"
+  },
+  "about": {
+    "pageTitle": "About"
+  },
+  "footer": {
+    "tagline": "Infrastructure for intelligent operations.",
+    "allRightsReserved": "All rights reserved."
+  },
+  "common": {
+    "status": {
+      "live": "Live",
+      "inDevelopment": "In development"
+    }
+  }
+}
