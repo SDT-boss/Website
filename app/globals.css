@@ -12,3 +12,10 @@ html {
   background-color: #008684;
   color: #ffffff;
 }
+
+/* Hero section dot-grid background — static-export safe pure CSS */
+/* Dot color #2a2a2a matches border-subtle token. Tailwind tokens unavailable in CSS files. */
+.dot-grid {
+  background-image: radial-gradient(circle, #2a2a2a 1px, transparent 1px);
+  background-size: 24px 24px;
+}

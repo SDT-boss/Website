@@ -1,5 +1,5 @@
 {
-  "_reviewNote": "AUTO-TRANSLATED SCAFFOLD — owner must review before launch",
+  "_reviewNote": "Auto-translated scaffolding — owner review required before launch",
   "nav": {
     "solutions": "解决方案",
     "work": "项目案例",
@@ -7,18 +7,52 @@
     "getInTouch": "联系我们"
   },
   "home": {
-    "heroTitle": "智能运营基础设施。",
-    "heroSub": "SDT 构建面向车队管理、物联网硬件、物流智能和 AI 运营的软件。",
-    "ctaLabel": "查看我们的解决方案"
+    "eyebrow": "智能运营",
+    "heroLine1": "面向智能运营的",
+    "heroLine2": "基础设施。",
+    "heroSub": "我们构建驱动现实世界中车队、物流和工业运营的软件。",
+    "ctaLabel": "开始对话",
+    "solutionsEyebrow": "我们构建什么",
+    "solutionsHeading": "四项能力。一个平台。",
+    "approachEyebrow": "我们如何工作",
+    "approachHeading": "有意为之，与众不同。",
+    "workEyebrow": "我们的项目",
+    "workHeading": "已投入生产。",
+    "seeOurWork": "查看我们的项目 →",
+    "footerCtaHeading": "想与我们合作？",
+    "footerCtaSub": "我们只接受少量客户。如果您的问题很难解决且风险很高，请与我们联系。",
+    "footerCtaButton": "联系我们"
   },
   "solutions": {
-    "pageTitle": "解决方案"
+    "pageTitle": "解决方案",
+    "card1Title": "车队与电动出行",
+    "card1Desc": "面向电动及混合车队的实时运营软件",
+    "card1Tag": "车队",
+    "card2Title": "物联网与硬件",
+    "card2Desc": "面向工业环境的边缘设备与传感器网络",
+    "card2Tag": "物联网",
+    "card3Title": "物流智能",
+    "card3Desc": "地面运营的路线、调度与装载优化",
+    "card3Tag": "物流",
+    "card4Title": "AI 运营",
+    "card4Desc": "异常检测、预测模型与决策自动化",
+    "card4Tag": "AI"
   },
   "work": {
-    "pageTitle": "项目案例"
+    "pageTitle": "项目案例",
+    "evFleetTitle": "电动车队运营",
+    "evFleetDesc": "面向电动汽车车队的端到端运营平台——实时追踪、充电管理与调度。"
   },
   "about": {
     "pageTitle": "关于我们"
+  },
+  "approach": {
+    "item1Title": "硬件感知",
+    "item1Body": "我们在设计软件时，深知它运行在真实机器和真实条件下——而非云端演示。",
+    "item2Title": "数据优先",
+    "item2Body": "每个功能都从数据模型开始。如果无法衡量，我们就不会构建它。",
+    "item3Title": "为规模而构建",
+    "item3Body": "系统无需重写即可从试点扩展到生产。架构决策在早期就已做出。"
   },
   "footer": {
     "tagline": "智能运营基础设施。",

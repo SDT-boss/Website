@@ -6,18 +6,52 @@
     "getInTouch": "Get in touch"
   },
   "home": {
-    "heroTitle": "Infrastructure for intelligent operations.",
-    "heroSub": "SDT builds software for fleet mobility, IoT hardware, logistics intelligence, and AI operations.",
-    "ctaLabel": "See our solutions"
+    "eyebrow": "INTELLIGENT OPERATIONS",
+    "heroLine1": "Infrastructure for",
+    "heroLine2": "intelligent ops.",
+    "heroSub": "We build the software that runs fleet, logistics, and industrial operations in the real world.",
+    "ctaLabel": "Start a conversation",
+    "solutionsEyebrow": "WHAT WE BUILD",
+    "solutionsHeading": "Four capabilities. One platform.",
+    "approachEyebrow": "HOW WE WORK",
+    "approachHeading": "Built differently, on purpose.",
+    "workEyebrow": "OUR WORK",
+    "workHeading": "Shipped to production.",
+    "seeOurWork": "See our work →",
+    "footerCtaHeading": "Want to work with us?",
+    "footerCtaSub": "We take a small number of clients. If your problem is hard and the stakes are real, let's talk.",
+    "footerCtaButton": "Get in touch"
   },
   "solutions": {
-    "pageTitle": "Solutions"
+    "pageTitle": "Solutions",
+    "card1Title": "Fleet & EV Mobility",
+    "card1Desc": "Real-time operations software for electric and mixed fleets",
+    "card1Tag": "Fleet",
+    "card2Title": "IoT & Hardware",
+    "card2Desc": "Edge devices and sensor networks for industrial environments",
+    "card2Tag": "IoT",
+    "card3Title": "Logistics Intelligence",
+    "card3Desc": "Route, schedule, and load optimization for ground operations",
+    "card3Tag": "Logistics",
+    "card4Title": "AI Operations",
+    "card4Desc": "Anomaly detection, predictive models, and decision automation",
+    "card4Tag": "AI"
   },
   "work": {
-    "pageTitle": "Work"
+    "pageTitle": "Work",
+    "evFleetTitle": "EV Fleet Operations",
+    "evFleetDesc": "End-to-end operations platform for an electric vehicle fleet — real-time tracking, charging management, and dispatch."
   },
   "about": {
     "pageTitle": "About"
+  },
+  "approach": {
+    "item1Title": "Hardware-aware",
+    "item1Body": "We design software knowing it runs on real machines in real conditions — not cloud demos.",
+    "item2Title": "Data-first",
+    "item2Body": "Every feature starts with a data model. If we can't measure it, we won't build it.",
+    "item3Title": "Built for scale",
+    "item3Body": "Systems go from pilot to production without a rewrite. Architecture decisions are made early."
   },
   "footer": {
     "tagline": "Infrastructure for intelligent operations.",
