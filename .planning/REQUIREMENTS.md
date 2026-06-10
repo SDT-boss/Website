@@ -102,14 +102,36 @@
 
 | Requirement | Phase | Status |
 |-------------|-------|--------|
-| FOUND-01 to FOUND-04 | Phase 1 | Pending |
-| I18N-01 to I18N-04 | Phase 1 | Pending |
-| NAV-01, NAV-02 | Phase 2 | Pending |
-| HOME-01 to HOME-05 | Phase 2 | Pending |
-| SOL-01 to SOL-04 | Phase 3 | Pending |
-| WORK-01, WORK-02 | Phase 3 | Pending |
-| ABOUT-01, ABOUT-02 | Phase 3 | Pending |
-| LAUNCH-01 to LAUNCH-07 | Phase 4 | Pending |
+| FOUND-01 | Phase 1 — Foundation & i18n | Pending |
+| FOUND-02 | Phase 1 — Foundation & i18n | Pending |
+| FOUND-03 | Phase 1 — Foundation & i18n | Pending |
+| FOUND-04 | Phase 1 — Foundation & i18n | Pending |
+| I18N-01 | Phase 1 — Foundation & i18n | Pending |
+| I18N-02 | Phase 1 — Foundation & i18n | Pending |
+| I18N-03 | Phase 1 — Foundation & i18n | Pending |
+| I18N-04 | Phase 1 — Foundation & i18n | Pending |
+| NAV-01 | Phase 2 — Home & Navigation | Pending |
+| NAV-02 | Phase 2 — Home & Navigation | Pending |
+| HOME-01 | Phase 2 — Home & Navigation | Pending |
+| HOME-02 | Phase 2 — Home & Navigation | Pending |
+| HOME-03 | Phase 2 — Home & Navigation | Pending |
+| HOME-04 | Phase 2 — Home & Navigation | Pending |
+| HOME-05 | Phase 2 — Home & Navigation | Pending |
+| SOL-01 | Phase 3 — Interior Pages | Pending |
+| SOL-02 | Phase 3 — Interior Pages | Pending |
+| SOL-03 | Phase 3 — Interior Pages | Pending |
+| SOL-04 | Phase 3 — Interior Pages | Pending |
+| WORK-01 | Phase 3 — Interior Pages | Pending |
+| WORK-02 | Phase 3 — Interior Pages | Pending |
+| ABOUT-01 | Phase 3 — Interior Pages | Pending |
+| ABOUT-02 | Phase 3 — Interior Pages | Pending |
+| LAUNCH-01 | Phase 4 — Launch Prep | Pending |
+| LAUNCH-02 | Phase 4 — Launch Prep | Pending |
+| LAUNCH-03 | Phase 4 — Launch Prep | Pending |
+| LAUNCH-04 | Phase 4 — Launch Prep | Pending |
+| LAUNCH-05 | Phase 4 — Launch Prep | Pending |
+| LAUNCH-06 | Phase 4 — Launch Prep | Pending |
+| LAUNCH-07 | Phase 4 — Launch Prep | Pending |
 
 **Coverage:**
 - v1 requirements: 27 total
@@ -118,4 +140,4 @@
 
 ---
 *Requirements defined: 2026-06-10*
-*Last updated: 2026-06-10 after initial definition*
+*Last updated: 2026-06-10 after roadmap creation — traceability expanded to per-requirement rows*
