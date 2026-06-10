@@ -23,7 +23,7 @@ See: .planning/PROJECT.md (updated 2026-06-10)
 Phase: 1 of 4 (Foundation & i18n)
 Plan: 0 of 3 in current phase
 Status: Ready to execute
-Last activity: 2026-06-10 — Phase 1 planned (3 plans: PLAN-A foundation cleanup, PLAN-B i18n infrastructure, PLAN-C i18n wiring + switcher)
+Last activity: 2026-06-10 — Phase 2 planned (2 plans: 02-01 navigation foundation, 02-02 home page sections)
 
 Progress: [░░░░░░░░░░] 0%
 
