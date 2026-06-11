@@ -15,6 +15,7 @@ export async function SolutionsGrid() {
               key={solution.slug}
               href={`/solutions/${solution.slug}`}
               className="block"
+              aria-label={st(`${solution.slug}.title` as Parameters<typeof st>[0])}
             >
               <SolutionCard
                 icon={solution.icon}

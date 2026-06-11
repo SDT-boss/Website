@@ -49,7 +49,7 @@ export default async function SolutionDetailPage({
         heading={t("title")}
         problemStatement={t("problemStatement")}
       />
-      <WhoThisIsFor text={t("whoThisIsFor")} />
+      <WhoThisIsFor text={t("whoThisIsFor")} label={st("whoThisIsForLabel")} />
       <CapabilityList capabilities={capabilities} />
       <FooterCTA />
     </>
