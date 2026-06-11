@@ -14,7 +14,7 @@ Decimal phases appear between their surrounding integers in numeric order.
 
 - [ ] **Phase 1: Foundation & i18n** - Fix codebase defects, wire real brand config, and establish the app/[locale]/ routing structure with next-intl
 - [ ] **Phase 2: Home & Navigation** - Build the fully-implemented home page and complete navbar (active states, hamburger menu, language switcher)
-- [ ] **Phase 3: Interior Pages** - Build solutions index + 4 detail pages, work page, and about page
+- [x] **Phase 3: Interior Pages** - Build solutions index + 4 detail pages, work page, and about page
 - [ ] **Phase 4: Launch Prep** - Favicon, OG metadata, per-page titles, sitemap, robots.txt, 404 page, Vercel deploy to sdt.technology (hold until owner approves)
 
 ## Phase Details
@@ -65,11 +65,11 @@ Plans:
   5. `generateStaticParams` covers all slug × locale combinations and `dynamicParams = false` is set; `npm run build` succeeds
 **Plans**: 5 plans
 Plans:
-- [ ] 03-01-PLAN.md — Shared data: lib/solutions.ts typed data file (slug, status, icon, order)
-- [ ] 03-02-PLAN.md — Solutions index slice: translation keys + PageHero + SolutionsGrid + solutions/page.tsx
-- [ ] 03-03-PLAN.md — Work page slice: translation keys + WorkCard + GhostCard + work/page.tsx
-- [ ] 03-04-PLAN.md — About page slice: translation keys + BeliefGrid + CurrentFocusParagraph + about/page.tsx
-- [ ] 03-05-PLAN.md — Solution detail slice: all 4 solution detail translation keys + SolutionDetailHero + CapabilityList + WhoThisIsFor + [slug]/page.tsx
+- [x] 03-01-PLAN.md — Shared data: lib/solutions.ts typed data file (slug, status, icon, order)
+- [x] 03-02-PLAN.md — Solutions index slice: translation keys + PageHero + SolutionsGrid + solutions/page.tsx
+- [x] 03-03-PLAN.md — Work page slice: translation keys + WorkCard + GhostCard + work/page.tsx
+- [x] 03-04-PLAN.md — About page slice: translation keys + BeliefGrid + CurrentFocusParagraph + about/page.tsx
+- [x] 03-05-PLAN.md — Solution detail slice: all 4 solution detail translation keys + SolutionDetailHero + CapabilityList + WhoThisIsFor + [slug]/page.tsx
 
 ### Phase 4: Launch Prep
 **Goal**: The site is technically complete for public launch — proper metadata, SEO files, a branded 404, and a live Vercel deploy connected to sdt.technology — but held from public traffic until the owner gives explicit approval
@@ -93,5 +93,5 @@ Phases execute in numeric order: 1 → 2 → 3 → 4
 |-------|----------------|--------|-----------|
 | 1. Foundation & i18n | 2/3 | In progress | - |
 | 2. Home & Navigation | 2/2 | Complete | 2026-06-10 |
-| 3. Interior Pages | 0/5 | Not started | - |
+| 3. Interior Pages | 5/5 | Complete | 2026-06-11 |
 | 4. Launch Prep | 0/TBD | Not started | - |
