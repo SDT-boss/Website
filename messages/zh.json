@@ -62,8 +62,14 @@
   },
   "work": {
     "pageTitle": "项目案例",
+    "pageEyebrow": "项目案例",
+    "pageSub": "一个项目已投入生产。更多项目正在路上。",
     "evFleetTitle": "电动车队运营",
-    "evFleetDesc": "面向电动汽车车队的端到端运营平台——实时追踪、充电管理与调度。"
+    "evFleetDesc": "面向电动汽车车队的端到端运营平台——实时追踪、充电管理与调度。",
+    "evFleetExpandedDesc": "将40多辆车的GPS遥测数据与充电站API相连，在每个操作员屏幕上实时呈现车辆状态。专为跨多个停车场和轮班计划的不间断运营而构建。",
+    "evFleetTag1": "车队",
+    "evFleetTag2": "电动车",
+    "evFleetTag3": "运营"
   },
   "about": {
     "pageTitle": "关于我们"

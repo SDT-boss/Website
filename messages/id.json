@@ -62,8 +62,14 @@
   },
   "work": {
     "pageTitle": "Pekerjaan",
+    "pageEyebrow": "PEKERJAAN",
+    "pageSub": "Satu proyek sudah berjalan. Lebih banyak sedang dalam perjalanan.",
     "evFleetTitle": "Operasi Armada EV",
-    "evFleetDesc": "Platform operasi end-to-end untuk armada kendaraan listrik — pelacakan real-time, manajemen pengisian daya, dan pengiriman."
+    "evFleetDesc": "Platform operasi end-to-end untuk armada kendaraan listrik — pelacakan real-time, manajemen pengisian daya, dan pengiriman.",
+    "evFleetExpandedDesc": "Menghubungkan telemetri GPS dari 40+ kendaraan dengan API stasiun pengisian daya depot untuk menampilkan status real-time di setiap layar operator. Dibangun untuk beroperasi tanpa gangguan di berbagai depot dan jadwal shift.",
+    "evFleetTag1": "Armada",
+    "evFleetTag2": "EV",
+    "evFleetTag3": "Operasi"
   },
   "about": {
     "pageTitle": "Tentang"

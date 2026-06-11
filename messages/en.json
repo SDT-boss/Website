@@ -61,8 +61,14 @@
   },
   "work": {
     "pageTitle": "Work",
+    "pageEyebrow": "WORK",
+    "pageSub": "One project in production. More on the way.",
     "evFleetTitle": "EV Fleet Operations",
-    "evFleetDesc": "End-to-end operations platform for an electric vehicle fleet — real-time tracking, charging management, and dispatch."
+    "evFleetDesc": "End-to-end operations platform for an electric vehicle fleet — real-time tracking, charging management, and dispatch.",
+    "evFleetExpandedDesc": "Connects GPS telemetry from 40+ vehicles with depot charging station APIs to surface real-time state across every operator screen. Built to run without interruption across multiple depots and shift schedules.",
+    "evFleetTag1": "Fleet",
+    "evFleetTag2": "EV",
+    "evFleetTag3": "Operations"
   },
   "about": {
     "pageTitle": "About"
