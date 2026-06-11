@@ -42,22 +42,54 @@
     "fleet-mobility": {
       "title": "Armada & Mobilitas EV",
       "desc": "Perangkat lunak operasi real-time untuk armada listrik dan campuran",
-      "tag": "Armada"
+      "tag": "Armada",
+      "problemStatement": "Manajer armada yang mengelola kendaraan EV dan ICE campuran kesulitan menyatukan pengiriman, pengisian daya, dan perencanaan rute dalam satu tampilan. Data tersebar di beberapa sistem — GPS, API pengisian daya, dan jadwal depot yang tidak saling terhubung. Keputusan dibuat berdasarkan informasi kemarin sementara armada bergerak hari ini.",
+      "whoThisIsFor": "Operator transportasi dan manajer armada yang mengelola 10 atau lebih kendaraan yang membutuhkan satu layar untuk pengiriman, jadwal pengisian daya, dan status kendaraan secara real-time.",
+      "capability1Title": "Visibilitas armada real-time",
+      "capability1Body": "Satu dasbor menampilkan lokasi, tingkat pengisian daya, dan penugasan pengiriman setiap kendaraan — diperbarui secara langsung. Tidak diperlukan pengambilan data manual.",
+      "capability2Title": "Pengiriman cerdas",
+      "capability2Body": "Merutekan penugasan terhadap lalu lintas langsung, jangkauan kendaraan, dan ketersediaan depot sehingga pengemudi mendapatkan pekerjaan yang tepat pada waktu yang tepat.",
+      "capability3Title": "Koordinasi pengisian daya",
+      "capability3Body": "Menjadwalkan jendela pengisian daya terhadap pola shift dan tarif jaringan untuk mengurangi biaya idle tanpa menghambat kendaraan sebelum perjalanan berikutnya."
     },
     "iot-hardware": {
       "title": "IoT & Perangkat Keras",
       "desc": "Perangkat tepi dan jaringan sensor untuk lingkungan industri",
-      "tag": "IoT"
+      "tag": "IoT",
+      "problemStatement": "Lingkungan industri berjalan di atas sensor dan perangkat tepi yang diabaikan oleh sebagian besar perangkat lunak. Data tersimpan di mesin lokal atau tiba terlalu berisik untuk ditindaklanjuti. Kesenjangan antara perangkat keras lapangan dan keputusan bisnis menghabiskan waktu dan uang setiap shift.",
+      "whoThisIsFor": "Insinyur operasi dan manajer pabrik yang membutuhkan data andal dan terstruktur dari lapangan tanpa harus membangun integrasi kustom dari awal untuk setiap perangkat.",
+      "capability1Title": "Integrasi perangkat tepi",
+      "capability1Body": "Terhubung ke PLC, sensor, dan perangkat keras telemetri yang ada tanpa memerlukan penggantian peralatan atau konfigurasi ulang yang ekstensif.",
+      "capability2Title": "Pemrosesan sinyal real-time",
+      "capability2Body": "Menyaring noise, menormalkan aliran data, dan menampilkan peristiwa yang dapat ditindaklanjuti sehingga operator melihat apa yang penting.",
+      "capability3Title": "Pipeline data bersih ke operasi",
+      "capability3Body": "Mengirim data terstruktur dan bertanda waktu ke hulu ke dasbor dan sistem keputusan — siap untuk ditindaklanjuti tanpa pembersihan tambahan."
     },
     "logistics-intelligence": {
       "title": "Kecerdasan Logistik",
       "desc": "Optimasi rute, jadwal, dan muatan untuk operasi darat",
-      "tag": "Logistik"
+      "tag": "Logistik",
+      "problemStatement": "Operasi darat kehilangan efisiensi karena jadwal statis yang tidak merespons kondisi langsung — penundaan lalu lintas, perubahan muatan, dan ketersediaan kendaraan berubah terus-menerus sepanjang hari. Setiap perencanaan ulang manual membutuhkan waktu yang tidak dimiliki operasi dan pengetahuan yang tidak seharusnya disimpan dispatcher dalam kepala mereka.",
+      "whoThisIsFor": "Manajer logistik dan perencana operasi yang menjalankan rute darat multi-pemberhentian dengan muatan variabel, jendela pengiriman ketat, dan armada yang berubah sepanjang hari.",
+      "capability1Title": "Optimasi rute dinamis",
+      "capability1Body": "Menyesuaikan rute secara terus-menerus terhadap lalu lintas langsung, kendala kapasitas, dan sinyal prioritas sehingga pengemudi selalu berada di jalur yang paling efisien.",
+      "capability2Title": "Pencocokan muatan dan kapasitas",
+      "capability2Body": "Mencocokkan berat dan volume kargo terhadap kapasitas kendaraan untuk mengurangi jumlah perjalanan dan menghindari perjalanan yang kelebihan atau kekurangan muatan.",
+      "capability3Title": "Pelacakan kepatuhan jadwal",
+      "capability3Body": "Menandai penyimpangan dari jendela waktu yang direncanakan secara real-time — sebelum berkembang menjadi pengiriman yang terlewat atau biaya lembur."
     },
     "ai-operations": {
       "title": "Operasi AI",
       "desc": "Deteksi anomali, model prediktif, dan otomasi keputusan",
-      "tag": "AI"
+      "tag": "AI",
+      "problemStatement": "Operasi menghasilkan cukup data untuk ditindaklanjuti — tetapi sinyal terkubur dalam noise. Anomali tidak terdeteksi hingga menjadi insiden. Keputusan yang bisa diotomatisasi masih menunggu tinjauan manusia, memperlambat operasi dan menguras orang-orang yang menjalankannya.",
+      "whoThisIsFor": "Pemimpin operasi dan tim data yang ingin menutup celah antara data sensor dan keputusan operasional tanpa membangun dan memelihara pipeline ML dari awal.",
+      "capability1Title": "Deteksi anomali",
+      "capability1Body": "Menandai penyimpangan dari perilaku yang diharapkan secara real-time di seluruh aliran data — peralatan, kendaraan, atau proses — sebelum menjadi insiden.",
+      "capability2Title": "Sinyal pemeliharaan prediktif",
+      "capability2Body": "Menampilkan sinyal peringatan dini dari data peralatan sehingga pemeliharaan dapat dijadwalkan secara proaktif daripada reaktif setelah kerusakan.",
+      "capability3Title": "Otomasi keputusan",
+      "capability3Body": "Mendefinisikan ambang batas dan aturan yang memicu respons otomatis terhadap kondisi yang diketahui — mengurangi eskalasi manual dan membebaskan operator untuk fokus pada pengecualian."
     }
   },
   "work": {

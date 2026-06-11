@@ -41,22 +41,54 @@
     "fleet-mobility": {
       "title": "Fleet & EV Mobility",
       "desc": "Real-time operations software for electric and mixed fleets",
-      "tag": "Fleet"
+      "tag": "Fleet",
+      "problemStatement": "Fleet managers running mixed EV and ICE vehicles struggle to unify dispatch, charging, and route planning in one view. Data lives across multiple systems — GPS, charging APIs, and depot schedules that don't talk to each other. Decisions get made on yesterday's information while the fleet is moving today.",
+      "whoThisIsFor": "Transport operators and fleet managers running 10 or more vehicles who need a single screen for dispatch, charging schedules, and real-time vehicle state.",
+      "capability1Title": "Real-time fleet visibility",
+      "capability1Body": "One dashboard shows every vehicle's location, charge level, and dispatch assignment — updated live. No manual data pulls required.",
+      "capability2Title": "Intelligent dispatch",
+      "capability2Body": "Routes assignments against live traffic, vehicle range, and depot availability so drivers receive the right job at the right time.",
+      "capability3Title": "Charging coordination",
+      "capability3Body": "Schedules charging windows against shift patterns and grid tariffs to reduce idle cost without stranding vehicles before the next run."
     },
     "iot-hardware": {
       "title": "IoT & Hardware",
       "desc": "Edge devices and sensor networks for industrial environments",
-      "tag": "IoT"
+      "tag": "IoT",
+      "problemStatement": "Industrial environments run on sensors and edge devices that most software ignores. Data sits on local machines or arrives too noisy to act on. The gap between field hardware and business decisions costs time and money every shift.",
+      "whoThisIsFor": "Operations engineers and plant managers who need reliable, structured data from the field without building custom integrations from scratch for every device.",
+      "capability1Title": "Edge device integration",
+      "capability1Body": "Connects to existing PLCs, sensors, and telemetry hardware without requiring equipment replacement or extensive reconfiguration.",
+      "capability2Title": "Real-time signal processing",
+      "capability2Body": "Filters noise, normalizes data streams, and surfaces actionable events so operators see what matters and not what doesn't.",
+      "capability3Title": "Clean data pipeline to operations",
+      "capability3Body": "Sends structured, timestamped data upstream to dashboards and decision systems — ready to act on without additional cleaning."
     },
     "logistics-intelligence": {
       "title": "Logistics Intelligence",
       "desc": "Route, schedule, and load optimization for ground operations",
-      "tag": "Logistics"
+      "tag": "Logistics",
+      "problemStatement": "Ground operations lose efficiency to static schedules that don't respond to live conditions — traffic delays, load changes, and vehicle availability shift constantly throughout the day. Each manual replan takes time the operation doesn't have and knowledge the dispatcher shouldn't need to hold in their head.",
+      "whoThisIsFor": "Logistics managers and operations planners running multi-stop ground routes with variable loads, tight delivery windows, and fleets that change throughout the day.",
+      "capability1Title": "Dynamic route optimization",
+      "capability1Body": "Adjusts routes continuously against live traffic, capacity constraints, and priority signals so drivers are always on the most efficient path.",
+      "capability2Title": "Load and capacity matching",
+      "capability2Body": "Matches cargo weight and volume against vehicle capacity to reduce trip count and avoid over- or under-loaded runs.",
+      "capability3Title": "Schedule adherence tracking",
+      "capability3Body": "Flags deviations from planned time windows in real time — before they compound into missed deliveries or overtime costs."
     },
     "ai-operations": {
       "title": "AI Operations",
       "desc": "Anomaly detection, predictive models, and decision automation",
-      "tag": "AI"
+      "tag": "AI",
+      "problemStatement": "Operations generate enough data to act on — but the signal is buried in noise. Anomalies go undetected until they become incidents. Decisions that could be automated still wait for human review, slowing down the operation and exhausting the people running it.",
+      "whoThisIsFor": "Operations leads and data teams who want to close the loop between sensor data and operational decisions without building and maintaining ML pipelines from scratch.",
+      "capability1Title": "Anomaly detection",
+      "capability1Body": "Flags deviations from expected behavior in real time across any data stream — equipment, vehicle, or process — before they become incidents.",
+      "capability2Title": "Predictive maintenance signals",
+      "capability2Body": "Surfaces early warning signals from equipment data so maintenance can be scheduled proactively rather than reactively after a breakdown.",
+      "capability3Title": "Decision automation",
+      "capability3Body": "Defines thresholds and rules that trigger automated responses to known conditions — reducing manual escalation and freeing operators to focus on exceptions."
     }
   },
   "work": {
