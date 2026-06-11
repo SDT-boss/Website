@@ -72,7 +72,18 @@
     "evFleetTag3": "Operasi"
   },
   "about": {
-    "pageTitle": "Tentang"
+    "pageTitle": "Tentang",
+    "pageEyebrow": "TENTANG",
+    "beliefH1": "Perangkat lunak operasi yang gagal di lapangan bukanlah perangkat lunak operasi.",
+    "beliefSub": "Kami membangun untuk operator yang tidak mampu mengalami downtime.",
+    "belief1Title": "Dibangun untuk mesin nyata, bukan demo",
+    "belief1Body": "Kami merancang perangkat lunak yang tahu bahwa ia berjalan di perangkat keras nyata — di depot, di jalan, dalam kondisi yang tidak selalu ideal. Jika tidak bertahan dalam kontak dengan lingkungan nyata, ia tidak akan dirilis.",
+    "belief2Title": "Data adalah fondasi, bukan pikiran terakhir",
+    "belief2Body": "Setiap fitur dimulai dengan model data. Jika tidak bisa diukur, diinstrumentasi, dan diverifikasi dengan data nyata, kami tidak membangunnya. Dasbor selalu menjadi hal terakhir.",
+    "belief3Title": "Sistem yang berkembang tanpa penulisan ulang",
+    "belief3Body": "Kami membuat keputusan arsitektur lebih awal sehingga pilot tidak memerlukan pembangunan ulang dari awal untuk mencapai produksi. Yang berfungsi di satu depot harus berfungsi di sepuluh depot tanpa arsitektur ulang.",
+    "currentFocusHeading": "Fokus Saat Ini",
+    "currentFocus": "Kami sedang dalam produksi penuh untuk operasi armada EV — kendaraan nyata, depot nyata, pengiriman nyata. Kami mengembangkan platform dengan hati-hati, satu masalah yang diselesaikan pada satu waktu. IoT, kecerdasan logistik, dan operasi AI adalah langkah berikutnya."
   },
   "approach": {
     "item1Title": "Sadar perangkat keras",

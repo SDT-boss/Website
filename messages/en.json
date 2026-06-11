@@ -71,7 +71,18 @@
     "evFleetTag3": "Operations"
   },
   "about": {
-    "pageTitle": "About"
+    "pageTitle": "About",
+    "pageEyebrow": "ABOUT",
+    "beliefH1": "Operations software that fails in the field is not operations software.",
+    "beliefSub": "We build for operators who can't afford downtime.",
+    "belief1Title": "Built for real machines, not demos",
+    "belief1Body": "We design software knowing it runs on actual hardware — in depots, on roads, in conditions that don't match the ideal. If it doesn't survive contact with the real environment, it doesn't ship.",
+    "belief2Title": "Data is the foundation, not the afterthought",
+    "belief2Body": "Every feature starts with a data model. If we can't measure it, instrument it, and verify it with real data, we don't build it. The dashboard is always the last thing.",
+    "belief3Title": "Systems that scale without a rewrite",
+    "belief3Body": "We make architecture decisions early so pilots don't require a ground-up rebuild to reach production. What works across one depot should work across ten without rearchitecting.",
+    "currentFocusHeading": "Current Focus",
+    "currentFocus": "We are deep in production on EV fleet operations — real vehicles, real depots, real dispatch. We are growing the platform deliberately, one solved problem at a time. IoT, logistics intelligence, and AI operations are next on the roadmap."
   },
   "approach": {
     "item1Title": "Hardware-aware",
