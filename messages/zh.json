@@ -25,6 +25,8 @@
   },
   "solutions": {
     "pageTitle": "解决方案",
+    "pageEyebrow": "解决方案",
+    "pageSub": "面向现实世界运营的软件层。",
     "card1Title": "车队与电动出行",
     "card1Desc": "面向电动及混合车队的实时运营软件",
     "card1Tag": "车队",
@@ -36,7 +38,27 @@
     "card3Tag": "物流",
     "card4Title": "AI 运营",
     "card4Desc": "异常检测、预测模型与决策自动化",
-    "card4Tag": "AI"
+    "card4Tag": "AI",
+    "fleet-mobility": {
+      "title": "车队与电动出行",
+      "desc": "面向电动及混合车队的实时运营软件",
+      "tag": "车队"
+    },
+    "iot-hardware": {
+      "title": "物联网与硬件",
+      "desc": "面向工业环境的边缘设备与传感器网络",
+      "tag": "物联网"
+    },
+    "logistics-intelligence": {
+      "title": "物流智能",
+      "desc": "地面运营的路线、调度与装载优化",
+      "tag": "物流"
+    },
+    "ai-operations": {
+      "title": "AI 运营",
+      "desc": "异常检测、预测模型与决策自动化",
+      "tag": "AI"
+    }
   },
   "work": {
     "pageTitle": "项目案例",

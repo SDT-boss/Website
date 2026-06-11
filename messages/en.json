@@ -24,6 +24,8 @@
   },
   "solutions": {
     "pageTitle": "Solutions",
+    "pageEyebrow": "SOLUTIONS",
+    "pageSub": "The software layer for real-world operations.",
     "card1Title": "Fleet & EV Mobility",
     "card1Desc": "Real-time operations software for electric and mixed fleets",
     "card1Tag": "Fleet",
@@ -35,7 +37,27 @@
     "card3Tag": "Logistics",
     "card4Title": "AI Operations",
     "card4Desc": "Anomaly detection, predictive models, and decision automation",
-    "card4Tag": "AI"
+    "card4Tag": "AI",
+    "fleet-mobility": {
+      "title": "Fleet & EV Mobility",
+      "desc": "Real-time operations software for electric and mixed fleets",
+      "tag": "Fleet"
+    },
+    "iot-hardware": {
+      "title": "IoT & Hardware",
+      "desc": "Edge devices and sensor networks for industrial environments",
+      "tag": "IoT"
+    },
+    "logistics-intelligence": {
+      "title": "Logistics Intelligence",
+      "desc": "Route, schedule, and load optimization for ground operations",
+      "tag": "Logistics"
+    },
+    "ai-operations": {
+      "title": "AI Operations",
+      "desc": "Anomaly detection, predictive models, and decision automation",
+      "tag": "AI"
+    }
   },
   "work": {
     "pageTitle": "Work",

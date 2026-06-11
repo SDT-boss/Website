@@ -25,6 +25,8 @@
   },
   "solutions": {
     "pageTitle": "Solusi",
+    "pageEyebrow": "SOLUSI",
+    "pageSub": "Lapisan perangkat lunak untuk operasi dunia nyata.",
     "card1Title": "Armada & Mobilitas EV",
     "card1Desc": "Perangkat lunak operasi real-time untuk armada listrik dan campuran",
     "card1Tag": "Armada",
@@ -36,7 +38,27 @@
     "card3Tag": "Logistik",
     "card4Title": "Operasi AI",
     "card4Desc": "Deteksi anomali, model prediktif, dan otomasi keputusan",
-    "card4Tag": "AI"
+    "card4Tag": "AI",
+    "fleet-mobility": {
+      "title": "Armada & Mobilitas EV",
+      "desc": "Perangkat lunak operasi real-time untuk armada listrik dan campuran",
+      "tag": "Armada"
+    },
+    "iot-hardware": {
+      "title": "IoT & Perangkat Keras",
+      "desc": "Perangkat tepi dan jaringan sensor untuk lingkungan industri",
+      "tag": "IoT"
+    },
+    "logistics-intelligence": {
+      "title": "Kecerdasan Logistik",
+      "desc": "Optimasi rute, jadwal, dan muatan untuk operasi darat",
+      "tag": "Logistik"
+    },
+    "ai-operations": {
+      "title": "Operasi AI",
+      "desc": "Deteksi anomali, model prediktif, dan otomasi keputusan",
+      "tag": "AI"
+    }
   },
   "work": {
     "pageTitle": "Pekerjaan",
