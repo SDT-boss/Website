@@ -100,4 +100,4 @@ Phases execute in numeric order: 1 → 2 → 3 → 4
 | 1. Foundation & i18n | 2/3 | In progress | - |
 | 2. Home & Navigation | 2/2 | Complete | 2026-06-10 |
 | 3. Interior Pages | 5/5 | Complete | 2026-06-11 |
-| 4. Launch Prep | 0/5 | Not started | - |
+| 4. Launch Prep | 0/5 | Planned | - |
