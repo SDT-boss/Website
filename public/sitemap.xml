@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <!-- Home: priority 1.0 -->
+  <url><loc>https://sdt.technology/en/</loc><changefreq>monthly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://sdt.technology/id/</loc><changefreq>monthly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://sdt.technology/zh/</loc><changefreq>monthly</changefreq><priority>1.0</priority></url>
+  <!-- Solutions index: priority 0.9 -->
+  <url><loc>https://sdt.technology/en/solutions/</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://sdt.technology/id/solutions/</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://sdt.technology/zh/solutions/</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <!-- Fleet Mobility: priority 0.8 -->
+  <url><loc>https://sdt.technology/en/solutions/fleet-mobility/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://sdt.technology/id/solutions/fleet-mobility/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://sdt.technology/zh/solutions/fleet-mobility/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <!-- IoT Hardware: priority 0.8 -->
+  <url><loc>https://sdt.technology/en/solutions/iot-hardware/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://sdt.technology/id/solutions/iot-hardware/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://sdt.technology/zh/solutions/iot-hardware/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <!-- Logistics Intelligence: priority 0.8 -->
+  <url><loc>https://sdt.technology/en/solutions/logistics-intelligence/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://sdt.technology/id/solutions/logistics-intelligence/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://sdt.technology/zh/solutions/logistics-intelligence/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <!-- AI Operations: priority 0.8 -->
+  <url><loc>https://sdt.technology/en/solutions/ai-operations/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://sdt.technology/id/solutions/ai-operations/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://sdt.technology/zh/solutions/ai-operations/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <!-- Work: priority 0.8 -->
+  <url><loc>https://sdt.technology/en/work/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://sdt.technology/id/work/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://sdt.technology/zh/work/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <!-- About: priority 0.7 -->
+  <url><loc>https://sdt.technology/en/about/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://sdt.technology/id/about/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://sdt.technology/zh/about/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+</urlset>
