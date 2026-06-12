@@ -86,8 +86,8 @@ Plans:
 Plans:
 - [x] 04-01-PLAN.md — Image assets: generate favicon.ico (multi-size), icon.png (512×512), apple-icon.png (180×180) via ImageMagick into app/; og.png (1200×630) into public/
 - [x] 04-02-PLAN.md — Root layout metadata: metadataBase, openGraph.images, twitter.card defaults in app/layout.tsx
-- [ ] 04-03-PLAN.md — Per-page metadata: metadata exports on home, solutions, work, about; generateMetadata on solution detail slug page
-- [ ] 04-04-PLAN.md — SEO files + branded 404: public/sitemap.xml (24 URLs), public/robots.txt, upgrade app/[locale]/not-found.tsx, create app/not-found.tsx
+- [x] 04-03-PLAN.md — Per-page metadata: metadata exports on home, solutions, work, about; generateMetadata on solution detail slug page
+- [x] 04-04-PLAN.md — SEO files + branded 404: public/sitemap.xml (24 URLs), public/robots.txt, upgrade app/[locale]/not-found.tsx, create app/not-found.tsx
 - [ ] 04-05-PLAN.md — Vercel deploy: build, deploy via npx vercel, validate at *.vercel.app, connect sdt.technology via Cloudflare grey-cloud DNS after owner approval
 
 ## Progress
@@ -100,4 +100,4 @@ Phases execute in numeric order: 1 → 2 → 3 → 4
 | 1. Foundation & i18n | 2/3 | In progress | - |
 | 2. Home & Navigation | 2/2 | Complete | 2026-06-10 |
 | 3. Interior Pages | 5/5 | Complete | 2026-06-11 |
-| 4. Launch Prep | 2/5 | In progress | - |
+| 4. Launch Prep | 4/5 | In progress | - |
