@@ -1,7 +1,14 @@
+import type { Metadata } from "next";
 import { setRequestLocale, getTranslations } from "next-intl/server";
 import { PageHero } from "@/components/PageHero";
 import { WorkCard } from "@/components/work/WorkCard";
 import { GhostCard } from "@/components/work/GhostCard";
+
+export const metadata: Metadata = {
+  title: "Work",
+  description:
+    "Production deployments built by SDT tech. Starting with EV Fleet Operations — a live system managing electric vehicle fleets.",
+};
 
 export function generateStaticParams() {
   return [{ locale: "en" }, { locale: "id" }, { locale: "zh" }];

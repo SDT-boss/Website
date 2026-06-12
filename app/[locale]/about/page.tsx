@@ -1,8 +1,15 @@
+import type { Metadata } from "next";
 import { setRequestLocale, getTranslations } from "next-intl/server";
 import { PageHero } from "@/components/PageHero";
 import { BeliefGrid } from "@/components/about/BeliefGrid";
 import { CurrentFocusParagraph } from "@/components/about/CurrentFocusParagraph";
 import { FooterCTA } from "@/components/home/FooterCTA";
+
+export const metadata: Metadata = {
+  title: "About",
+  description:
+    "SDT tech builds infrastructure-grade software for operators who run complex systems at scale. Jakarta-based. Production-focused.",
+};
 
 export function generateStaticParams() {
   return [{ locale: "en" }, { locale: "id" }, { locale: "zh" }];
