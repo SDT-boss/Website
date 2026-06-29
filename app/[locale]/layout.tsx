@@ -1,7 +1,5 @@
 import { NextIntlClientProvider } from "next-intl";
 import { getMessages, setRequestLocale } from "next-intl/server";
-import { Navbar } from "@/components/Navbar";
-import { Footer } from "@/components/Footer";
 
 export function generateStaticParams() {
   return [
@@ -13,6 +11,9 @@ export function generateStaticParams() {
 
 export const dynamicParams = false;
 
+// Provider-only shell. Page chrome (Navbar/Footer) lives in the (site) route
+// group so the marketing landing page at "/" can render its own self-contained
+// navigation and footer.
 export default async function LocaleLayout({
   children,
   params,
@@ -26,9 +27,7 @@ export default async function LocaleLayout({
 
   return (
     <NextIntlClientProvider locale={locale} messages={messages}>
-      <Navbar />
-      <main className="flex-1">{children}</main>
-      <Footer />
+      {children}
     </NextIntlClientProvider>
   );
 }

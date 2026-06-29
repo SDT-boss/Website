@@ -1,5 +1,117 @@
 {
   "_reviewNote": "Auto-translated scaffolding — owner review required before launch",
+  "landing": {
+    "nav": {
+      "platform": "Platform",
+      "services": "Layanan",
+      "interfaces": "Antarmuka",
+      "team": "Tim",
+      "approach": "Pendekatan",
+      "signin": "Masuk",
+      "bookDemo": "Pesan Demo"
+    },
+    "hero": {
+      "badge": "Perusahaan induk teknologi",
+      "h1a": "Kami membangun sistem",
+      "h1b": "yang menggerakkan dunia nyata.",
+      "lede": "SDT Technology adalah perusahaan induk yang membangun usaha operasi cerdas — dimulai dari mobilitas armada, lalu berkembang ke IoT, AI, dan kategori yang belum ada saat ini. Satu tulang punggung operasi; banyak bisnis di atasnya.",
+      "cta1": "Jadi Mitra",
+      "cta2": "Lihat EVEcosys",
+      "m1": "Usaha aktif saat ini",
+      "m2": "Kategori untuk dibangun",
+      "m3": "Kantor pusat · melayani Asia Tenggara"
+    },
+    "trust": {
+      "label": "Menggerakkan operasi di mobilitas, energi & logistik",
+      "l1": "Armada EV",
+      "l2": "Telemetri IoT",
+      "l3": "Logistik",
+      "l4": "Operasi AI"
+    },
+    "services": {
+      "eyebrow": "Portofolio",
+      "heading": "Satu tulang punggung operasi. Portofolio usaha yang terus berkembang.",
+      "body": "SDT membangun dan menskalakan bisnis operasi pada satu control plane yang sadar perangkat keras — aman, multi-tenant, AI-native. EVEcosys membuktikan modelnya; tulang punggung yang sama mendukung apa pun yang kami bangun berikutnya.",
+      "tagLive": "Aktif",
+      "tagBuild": "Dibangun",
+      "tagExplore": "Eksplorasi",
+      "s1Title": "Mobilitas Armada · EVEcosys",
+      "s1Body": "Usaha unggulan kami, sudah produksi. Elektrifikasi & operasi armada EV menyeluruh — pelacakan langsung, perencanaan perjalanan, pengisian daya & pemeliharaan prediktif.",
+      "s2Title": "AI & Kecerdasan",
+      "s2Body": "Sistem agentik yang membaca sinyal operasional, merangkumnya dalam bahasa sederhana, dan merekomendasikan tindakan berikutnya — asisten EVE yang diperluas melampaui armada.",
+      "s3Title": "IoT & Edge",
+      "s3Body": "Lapisan perangkat-ke-cloud di balik semua yang kami bangun — telemetri ternormalisasi, penilaian keandalan data langsung, dan peringatan real-time dari perangkat keras Anda.",
+      "s4Title": "Apa selanjutnya",
+      "s4Body": "Energi, logistik, infrastruktur cerdas — dan kategori yang belum bernama. Jika berjalan dengan sinyal dunia nyata dan butuh operasi cerdas, tempatnya di tulang punggung kami."
+    },
+    "flagship": {
+      "eyebrow": "Usaha pertama · Pemeliharaan Prediktif",
+      "heading": "EVEcosys menangkap kegagalan sebelum kendaraan terhenti.",
+      "desc": "Usaha yang membuktikan model kami — sudah produksi hari ini. Intinya adalah <b>Mission Readiness Score</b> langsung: lima sinyal kesehatan berbobot per kendaraan yang mengubah telemetri mentah menjadi satu angka — siap berangkat, jalan dengan hati-hati, atau tarik untuk servis. EVE memprediksi kerusakan, membuat tiket, dan menjadwalkan bengkel sebelum menjadi waktu henti. Lapisan kecerdasan yang sama kini menggerakkan semua yang kami bangun.",
+      "b1Title": "Kesiapan prediktif",
+      "b1Sub": "Skor kesehatan langsung 0–100, 5 sub-skor",
+      "b2Title": "Tiket otomatis",
+      "b2Sub": "Kerusakan terdeteksi ~2 minggu lebih awal",
+      "b3Title": "Pelacakan langsung",
+      "b3Sub": "Peta real-time, perjalanan & briefing rute",
+      "b4Title": "Sadar peran",
+      "b4Sub": "Antarmuka Direksi, Manajer & Pengemudi",
+      "cta": "Jelajahi EVEcosys"
+    },
+    "showcase": {
+      "eyebrow": "Di dalam platform",
+      "heading": "Dirancang untuk dilihat — dan ditindaklanjuti.",
+      "body": "Dua antarmuka yang dipakai operator setiap hari: <b>Trip Planner</b> berbasis peta untuk pengemudi, dan papan <b>Pemeliharaan Prediktif</b> untuk manajer. Data yang sama, tampilan yang tepat.",
+      "h1": "Rute layar penuh, setiap perhentian berurutan.",
+      "p1": "Pengemudi mendapat rute OpenStreetMap langsung dengan perhentian pengisian daya, pit-stop pemeliharaan, dan pergantian kendaraan wajib secara berurutan — plus perhentian berikutnya dan arah belok demi belok sekilas, di 3G, dengan sarung tangan.",
+      "h2": "Seluruh armada, diurutkan dari yang paling butuh perhatian.",
+      "p2": "Setiap kendaraan dinilai 0–100 dan diperingkat berdasarkan urgensi. Yang Tidak Tersedia naik ke atas dengan faktor pasti yang menariknya turun — manajer memperbaiki kendaraan yang tepat sebelum menjadi waktu henti.",
+      "s1": "Perhentian terurut",
+      "s2": "Pit-stop wajib",
+      "s3": "Sub-skor kesehatan",
+      "s4": "Waktu henti tak terduga"
+    },
+    "approach": {
+      "eyebrow": "Cara kami membangun",
+      "heading": "Tulang punggung untuk meluncurkan usaha berikutnya lebih cepat.",
+      "body": "Setiap usaha yang kami mulai mewarisi fondasi yang sama — sehingga kami beralih dari ide ke produksi tanpa membangun ulang bagian yang sulit. Itulah mengapa armada lebih dulu, dan mengapa kategori berikutnya akan lebih cepat.",
+      "p1Title": "Dari perangkat ke atas",
+      "p1Body": "Kami berintegrasi di edge — kendaraan, charger, sensor — agar datanya nyata, tepat waktu, dan tepercaya sebelum mencapai dasbor.",
+      "p2Title": "Satu control plane",
+      "p2Body": "Tidak ada antarmuka yang menyentuh basis data secara langsung. Setiap peran, aplikasi, dan tenant melewati satu control plane yang aman dan dapat diaudit.",
+      "p3Title": "Keputusan, bukan dasbor",
+      "p3Body": "AI membaca seluruh tumpukan dan memunculkan tindakan berikutnya — tiket yang harus dibuat, kendaraan yang harus ditahan, rute yang harus dialihkan — dalam bahasa sederhana."
+    },
+    "team": {
+      "eyebrow": "Tim",
+      "heading": "Dibangun oleh operator dan pembangun.",
+      "body": "SDT Technology dibangun oleh orang-orang dengan akar mendalam di bidang infrastruktur, strategi produk, dan teknologi hijau — yang dihubungkan oleh keyakinan bersama bahwa perangkat lunak operasi cerdas dimulai dari dunia fisik.",
+      "m1Role": "Pendiri & Ketua",
+      "m1Bio": "Pemimpin strategis dengan pengalaman puluhan tahun di bidang infrastruktur transportasi Indonesia — pernah menjabat sebagai COO sebuah grup jalan tol nasional besar, CEO konsesi jalan tol regional, dan Direktur di transportasi darat. Memegang gelar Master dari UNSW dengan studi di Macquarie University. Dasar kebijakan, strategi operasional, dan logistik skala besar yang dimilikinya membentuk pendekatan SDT yang mengutamakan infrastruktur dan sadar perangkat keras dalam membangun usaha.",
+      "m2Role": "Strategi Produk & Aplikasi IoT",
+      "m2Bio": "Seorang product strategist dengan fondasi IoT dan sistem koneksi dari University of Edinburgh (2016–2020). Bekerja di persimpangan antara data sensor dunia nyata dan produk yang cerdas — telah membentuk aplikasi berbasis data berat di infrastruktur aset digital dan platform keuangan. Di SDT, ia memimpin bagaimana sinyal operasional mentah menjadi produk: lapisan kecerdasan yang mengubah telemetri menjadi keputusan, dan keputusan menjadi usaha.",
+      "m3Role": "Teknik & Teknologi Hijau",
+      "m3Bio": "Insinyur yang berspesialisasi dalam teknologi hijau dan infrastruktur mobilitas bersih. Saat ini memimpin pelaksanaan proyek di jaringan pengisian EV, kapal listrik, dan platform mobilitas perkotaan di Asia Tenggara — berkembang dari infrastruktur energi lepas pantai ke garis depan teknologi bersih. Latar belakang awal mencakup manufaktur kedirgantaraan dan rekayasa material bangunan. Kedalaman pemahamannya atas sistem energi dan infrastruktur fisik membawa perspektif pembangun pada pendekatan SDT terhadap operasi cerdas."
+    },
+    "metrics": {
+      "m1": "Waktu aktif platform",
+      "m2": "Sub-skor kesiapan",
+      "m3": "Hingga keputusan berangkat",
+      "m4": "Berjalan di bandwidth rendah"
+    },
+    "cta": {
+      "heading": "Bangun usaha berikutnya bersama kami.",
+      "body": "Baik Anda operator yang butuh operasi cerdas, investor, atau pendiri dengan kategori di benak — SDT membawa tulang punggung, tim, dan playbook-nya. Mulai dengan melihat EVEcosys.",
+      "b1": "Jadi Mitra",
+      "b2": "Hubungi tim"
+    },
+    "footer": {
+      "about": "Perusahaan induk teknologi yang membangun usaha operasi cerdas — dimulai dari mobilitas armada, berkembang ke AI, IoT, dan kategori yang belum ada.",
+      "col1": "Platform",
+      "col2": "Perusahaan",
+      "col3": "Mulai"
+    }
+  },
   "nav": {
     "solutions": "Solusi",
     "work": "Pekerjaan",
