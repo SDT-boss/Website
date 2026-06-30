@@ -30,8 +30,8 @@
     "services": {
       "eyebrow": "The portfolio",
       "heading": "One operating spine. A growing portfolio of ventures.",
-      "body": "SDT builds and scales operations businesses on a single hardware-aware control plane — secure, multi-tenant, AI-native. EVEcosys is the first venture we're building on it; the same spine is designed to carry whatever comes next.",
-      "tagLive": "First venture",
+      "body": "SDT builds and scales operations businesses on a single hardware-aware control plane — secure, multi-tenant, AI-native. EVEcosys is our flagship platform, built on this spine — which carries everything we build.",
+      "tagLive": "Flagship",
       "tagBuild": "Building",
       "tagExplore": "Exploring",
       "s1Title": "Fleet Mobility · EVEcosys",
@@ -44,9 +44,9 @@
       "s4Body": "Energy, logistics, smart infrastructure — and categories that don't have a name yet. If it runs on real-world signal and needs intelligent operations, it belongs on our spine."
     },
     "flagship": {
-      "eyebrow": "First venture · Predictive Maintenance",
+      "eyebrow": "EVEcosys · Predictive Maintenance",
       "heading": "EVEcosys catches failures before they ground a vehicle.",
-      "desc": "Our first venture, in active development. At its core is a <b>Mission Readiness Score</b>: five weighted health signals per vehicle that turn raw telemetry into one number — ready to dispatch, run with caution, or pull for service. EVE predicts the fault, raises the ticket, and schedules the workshop before it becomes downtime. The same intelligence layer is designed to power everything else we build.",
+      "desc": "EVEcosys is our flagship platform for intelligent fleet operations. At its core is a <b>Mission Readiness Score</b>: five weighted health signals per vehicle that turn raw telemetry into one number — ready to dispatch, run with caution, or pull for service. EVE predicts the fault, raises the ticket, and schedules the workshop before it becomes downtime. The same intelligence layer is designed to power everything else we build.",
       "b1Title": "Predictive readiness",
       "b1Sub": "Live 0–100 health score, 5 sub-scores",
       "b2Title": "Auto-raised tickets",
@@ -207,7 +207,7 @@
   "work": {
     "pageTitle": "Work",
     "pageEyebrow": "WORK",
-    "pageSub": "Our first project, in active development. More on the way.",
+    "pageSub": "Our flagship platform, with more on the way.",
     "evFleetTitle": "EV Fleet Operations",
     "evFleetDesc": "End-to-end operations platform for an electric vehicle fleet — real-time tracking, charging management, and dispatch.",
     "evFleetExpandedDesc": "Designed to connect GPS telemetry from a mixed EV fleet with depot charging-station APIs, surfacing real-time state across every operator screen — and to run without interruption across multiple depots and shift schedules.",

@@ -243,7 +243,7 @@ export default async function Home({
                 <div className="b"><span className="ic"><span className="msym">groups</span></span><div className="tx"><b>{t("flagship.b4Title")}</b><span>{t("flagship.b4Sub")}</span></div></div>
               </div>
               <div className="hero-cta">
-                <a href="#cta" className="btn btn-dark">
+                <a href="#cta" className="btn btn-primary">
                   <span className="msym">arrow_forward</span>
                   <span>{t("flagship.cta")}</span>
                 </a>

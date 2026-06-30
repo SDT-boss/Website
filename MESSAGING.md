@@ -33,17 +33,16 @@ one operating spine, many businesses on top.
 ## 2. Primary value proposition
 
 SDT builds operations businesses on a single hardware-aware control plane —
-secure, multi-tenant, AI-native. EVEcosys is the first venture being built on
-it; the same spine is designed to carry whatever comes next. Each new venture
-inherits the foundations, so SDT goes from idea to production without rebuilding
-the hard parts.
+secure, multi-tenant, AI-native. EVEcosys is the flagship platform built on it;
+the same spine carries everything SDT builds. Each new product inherits the
+foundations, so SDT goes from idea to production without rebuilding the hard parts.
 
 ## 3. Target audiences & desired actions
 
 | Audience | What they want | Primary action |
 | --- | --- | --- |
 | **Operators** running real-world fleets/assets | Intelligent operations software that survives the field | _Partner with us_ / _See EVEcosys_ |
-| **Investors** | A scalable platform thesis with a credible first venture | _Partner with us_ / _Talk to the team_ |
+| **Investors** | A scalable platform thesis with a credible flagship platform | _Partner with us_ / _Talk to the team_ |
 | **Founders** with a category in mind | A spine, team and playbook to build on | _Talk to the team_ |
 
 **Calls to action (in priority order):** Partner with us · Book a demo ·
@@ -62,8 +61,8 @@ Telemetry · Logistics · AI Ops.
 
 ### The portfolio (Services)
 _One operating spine. A growing portfolio of ventures._
-- **Fleet Mobility · EVEcosys** _(First venture)_ — flagship venture in active
-  development: end-to-end EV fleet electrification & operations.
+- **Fleet Mobility · EVEcosys** _(Flagship)_ — flagship platform for end-to-end
+  EV fleet electrification & operations.
 - **AI & Intelligence** _(Building)_ — agentic systems that read operational
   signal and recommend the next action.
 - **IoT & Edge** _(Building)_ — the device-to-cloud layer: normalized telemetry,
@@ -72,8 +71,8 @@ _One operating spine. A growing portfolio of ventures._
   categories without a name yet.
 
 ### Flagship — EVEcosys (Predictive Maintenance)
-Our first venture, in active development. At its core is a **Mission Readiness
-Score**: five weighted health signals per vehicle that turn raw telemetry into
+EVEcosys is our flagship platform for intelligent fleet operations. At its core
+is a **Mission Readiness Score**: five weighted health signals per vehicle that turn raw telemetry into
 one number — ready to dispatch, run with caution, or pull for service. EVE
 predicts the fault, raises the ticket, and schedules the workshop before it
 becomes downtime. The same intelligence layer is designed to power everything

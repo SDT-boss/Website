@@ -30,8 +30,8 @@
     "services": {
       "eyebrow": "Portofolio",
       "heading": "Satu tulang punggung operasi. Portofolio usaha yang terus berkembang.",
-      "body": "SDT membangun dan menskalakan bisnis operasi pada satu control plane yang sadar perangkat keras — aman, multi-tenant, AI-native. EVEcosys adalah usaha pertama yang kami bangun di atasnya; tulang punggung yang sama dirancang untuk mendukung apa pun berikutnya.",
-      "tagLive": "Usaha pertama",
+      "body": "SDT membangun dan menskalakan bisnis operasi pada satu control plane yang sadar perangkat keras — aman, multi-tenant, AI-native. EVEcosys adalah platform unggulan kami, dibangun di atas tulang punggung ini — yang mendukung semua yang kami bangun.",
+      "tagLive": "Unggulan",
       "tagBuild": "Dibangun",
       "tagExplore": "Eksplorasi",
       "s1Title": "Mobilitas Armada · EVEcosys",
@@ -44,9 +44,9 @@
       "s4Body": "Energi, logistik, infrastruktur cerdas — dan kategori yang belum bernama. Jika berjalan dengan sinyal dunia nyata dan butuh operasi cerdas, tempatnya di tulang punggung kami."
     },
     "flagship": {
-      "eyebrow": "Usaha pertama · Pemeliharaan Prediktif",
+      "eyebrow": "EVEcosys · Pemeliharaan Prediktif",
       "heading": "EVEcosys menangkap kegagalan sebelum kendaraan terhenti.",
-      "desc": "Usaha pertama kami, dalam pengembangan aktif. Intinya adalah <b>Mission Readiness Score</b>: lima sinyal kesehatan berbobot per kendaraan yang mengubah telemetri mentah menjadi satu angka — siap berangkat, jalan dengan hati-hati, atau tarik untuk servis. EVE memprediksi kerusakan, membuat tiket, dan menjadwalkan bengkel sebelum menjadi waktu henti. Lapisan kecerdasan yang sama dirancang untuk menggerakkan semua yang kami bangun.",
+      "desc": "EVEcosys adalah platform unggulan kami untuk operasi armada cerdas. Intinya adalah <b>Mission Readiness Score</b>: lima sinyal kesehatan berbobot per kendaraan yang mengubah telemetri mentah menjadi satu angka — siap berangkat, jalan dengan hati-hati, atau tarik untuk servis. EVE memprediksi kerusakan, membuat tiket, dan menjadwalkan bengkel sebelum menjadi waktu henti. Lapisan kecerdasan yang sama dirancang untuk menggerakkan semua yang kami bangun.",
       "b1Title": "Kesiapan prediktif",
       "b1Sub": "Skor kesehatan langsung 0–100, 5 sub-skor",
       "b2Title": "Tiket otomatis",
@@ -207,7 +207,7 @@
   "work": {
     "pageTitle": "Pekerjaan",
     "pageEyebrow": "PEKERJAAN",
-    "pageSub": "Proyek pertama kami, dalam pengembangan aktif. Lebih banyak sedang dalam perjalanan.",
+    "pageSub": "Platform unggulan kami, dengan lebih banyak yang akan datang.",
     "evFleetTitle": "Operasi Armada EV",
     "evFleetDesc": "Platform operasi end-to-end untuk armada kendaraan listrik — pelacakan real-time, manajemen pengisian daya, dan pengiriman.",
     "evFleetExpandedDesc": "Dirancang untuk menghubungkan telemetri GPS dari armada EV campuran dengan API stasiun pengisian daya depot, menampilkan status real-time di setiap layar operator — dan beroperasi tanpa gangguan di berbagai depot dan jadwal shift.",
