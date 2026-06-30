@@ -1,5 +1,4 @@
 {
-  "_reviewNote": "Auto-translated scaffolding — owner review required before launch",
   "landing": {
     "nav": {
       "platform": "平台",
@@ -131,9 +130,9 @@
     "workEyebrow": "我们的项目",
     "workHeading": "已投入生产。",
     "seeOurWork": "查看我们的项目 →",
-    "footerCtaHeading": "想与我们合作？",
-    "footerCtaSub": "我们只接受少量客户。如果您的问题很难解决且风险很高，请与我们联系。",
-    "footerCtaButton": "联系我们"
+    "footerCtaHeading": "与我们共建下一个业务。",
+    "footerCtaSub": "无论您是需要智能运营的运营商、投资人，还是心中已有方向的创始人——SDT 提供中枢、团队与方法论。",
+    "footerCtaButton": "成为合作伙伴"
   },
   "solutions": {
     "pageTitle": "解决方案",

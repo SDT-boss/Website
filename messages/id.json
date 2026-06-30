@@ -1,5 +1,4 @@
 {
-  "_reviewNote": "Auto-translated scaffolding — owner review required before launch",
   "landing": {
     "nav": {
       "platform": "Platform",
@@ -131,9 +130,9 @@
     "workEyebrow": "PEKERJAAN KAMI",
     "workHeading": "Sudah diproduksi.",
     "seeOurWork": "Lihat pekerjaan kami →",
-    "footerCtaHeading": "Ingin bekerja sama dengan kami?",
-    "footerCtaSub": "Kami menerima sejumlah kecil klien. Jika masalah Anda sulit dan taruhannya nyata, mari bicara.",
-    "footerCtaButton": "Hubungi kami"
+    "footerCtaHeading": "Bangun usaha berikutnya bersama kami.",
+    "footerCtaSub": "Baik Anda operator yang butuh operasi cerdas, investor, atau pendiri dengan kategori di benak — SDT membawa tulang punggung, tim, dan playbook-nya.",
+    "footerCtaButton": "Jadi Mitra"
   },
   "solutions": {
     "pageTitle": "Solusi",
