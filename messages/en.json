@@ -10,14 +10,14 @@
       "bookDemo": "Book a demo"
     },
     "hero": {
-      "badge": "A technology holding company",
+      "badge": "An operations technology company",
       "h1a": "We build the systems",
       "h1b": "that run the real world.",
-      "lede": "SDT Technology is a holding company building intelligent operations ventures — starting with fleet mobility, and expanding into IoT, AI and the categories that don't exist yet. One operating spine; many businesses on top.",
+      "lede": "SDT Technology builds intelligent operations software on one hardware-aware platform — starting with fleet mobility and expanding into IoT, AI and logistics. One platform; a growing suite of products.",
       "cta1": "Partner with us",
       "cta2": "See EVEcosys",
-      "m1": "Operating spine",
-      "m2": "Categories to build",
+      "m1": "Unified platform",
+      "m2": "Built to scale",
       "m3": "Real-time by design"
     },
     "trust": {
@@ -28,20 +28,20 @@
       "l4": "AI Ops"
     },
     "services": {
-      "eyebrow": "The portfolio",
-      "heading": "One operating spine. A growing portfolio of ventures.",
-      "body": "SDT builds and scales operations businesses on a single hardware-aware control plane — secure, multi-tenant, AI-native. EVEcosys is our flagship platform, built on this spine — which carries everything we build.",
+      "eyebrow": "The product suite",
+      "heading": "One platform. A growing suite of operations products.",
+      "body": "SDT builds and scales operations software on a single hardware-aware control plane — secure, multi-tenant, AI-native. EVEcosys is our flagship platform, built on it — and the same foundation powers everything we build.",
       "tagLive": "Flagship",
       "tagBuild": "Building",
       "tagExplore": "Exploring",
       "s1Title": "Fleet Mobility · EVEcosys",
-      "s1Body": "Our flagship venture, in active development. End-to-end EV fleet electrification & operations — live tracking, trip planning, charging & predictive maintenance.",
+      "s1Body": "Our flagship platform. End-to-end EV fleet electrification & operations — live tracking, trip planning, charging & predictive maintenance.",
       "s2Title": "AI & Intelligence",
       "s2Body": "Agentic systems that read operational signal, summarize it in plain language and recommend the next action — the EVE assistant generalized beyond fleets.",
       "s3Title": "IoT & Edge",
       "s3Body": "The device-to-cloud layer under everything we build — normalized telemetry, live data-confidence scoring and real-time alerting from the hardware you already run.",
       "s4Title": "What's next",
-      "s4Body": "Energy, logistics, smart infrastructure — and categories that don't have a name yet. If it runs on real-world signal and needs intelligent operations, it belongs on our spine."
+      "s4Body": "Energy, logistics, smart infrastructure — wherever operations run on real-world signal. If it needs intelligent operations, it belongs on our platform."
     },
     "flagship": {
       "eyebrow": "EVEcosys · Predictive Maintenance",
@@ -72,8 +72,8 @@
     },
     "approach": {
       "eyebrow": "How we build",
-      "heading": "A spine built to launch the next venture faster.",
-      "body": "Every venture we start inherits the same foundations — so we go from idea to production without rebuilding the hard parts. It's why fleet was first, and why the next category will be quicker.",
+      "heading": "A platform built to ship the next product faster.",
+      "body": "Every product we build inherits the same foundations — so we go from idea to production without rebuilding the hard parts. It's why fleet came first, and why the next will be faster.",
       "p1Title": "From the device up",
       "p1Body": "We integrate at the edge — vehicles, chargers, sensors — so the data is real, timely and trustworthy before it ever reaches a dashboard.",
       "p2Title": "One control plane",
@@ -99,13 +99,13 @@
       "m4": "Works on low bandwidth"
     },
     "cta": {
-      "heading": "Build the next venture with us.",
-      "body": "Whether you're an operator who needs intelligent operations, an investor, or a founder with a category in mind — SDT brings the spine, the team and the playbook. Start with a look at EVEcosys.",
+      "heading": "Build what's next with us.",
+      "body": "Whether you're an operator who needs intelligent operations, a partner, or an investor — SDT brings the platform, the team and the expertise. Start with a look at EVEcosys.",
       "b1": "Partner with us",
       "b2": "Talk to the team"
     },
     "footer": {
-      "about": "A technology holding company building intelligent operations ventures — starting with fleet mobility, expanding into AI, IoT and the categories that don't exist yet.",
+      "about": "An operations technology company building intelligent software on one hardware-aware platform — starting with fleet mobility and expanding into AI, IoT and logistics.",
       "col1": "Platforms",
       "col2": "Company",
       "col3": "Get started"

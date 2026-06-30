@@ -12,11 +12,11 @@
 
 ## 1. Positioning
 
-**What SDT Tech is:** a technology holding company that builds and scales
-intelligent-operations ventures on a single, hardware-aware control plane —
-one operating spine, many businesses on top.
+**What SDT Tech is:** an operations technology company that builds and scales
+intelligent operations software on a single, hardware-aware platform —
+one platform, a growing suite of products.
 
-**One-line positioning:** _One operating spine. A growing portfolio of ventures._
+**One-line positioning:** _One platform. A growing suite of operations products._
 
 **Headline (hero):**
 
@@ -24,17 +24,17 @@ one operating spine, many businesses on top.
 
 **Lede:**
 
-> SDT Technology is a holding company building intelligent operations ventures —
-> starting with fleet mobility, and expanding into IoT, AI and the categories
-> that don't exist yet. One operating spine; many businesses on top.
+> SDT Technology builds intelligent operations software on one hardware-aware
+> platform — starting with fleet mobility and expanding into IoT, AI and
+> logistics. One platform; a growing suite of products.
 
-**Badge / eyebrow:** A technology holding company
+**Badge / eyebrow:** An operations technology company
 
 ## 2. Primary value proposition
 
-SDT builds operations businesses on a single hardware-aware control plane —
+SDT builds operations software on a single hardware-aware control plane —
 secure, multi-tenant, AI-native. EVEcosys is the flagship platform built on it;
-the same spine carries everything SDT builds. Each new product inherits the
+the same foundation powers everything SDT builds. Each new product inherits the
 foundations, so SDT goes from idea to production without rebuilding the hard parts.
 
 ## 3. Target audiences & desired actions
@@ -43,7 +43,7 @@ foundations, so SDT goes from idea to production without rebuilding the hard par
 | --- | --- | --- |
 | **Operators** running real-world fleets/assets | Intelligent operations software that survives the field | _Partner with us_ / _See EVEcosys_ |
 | **Investors** | A scalable platform thesis with a credible flagship platform | _Partner with us_ / _Talk to the team_ |
-| **Founders** with a category in mind | A spine, team and playbook to build on | _Talk to the team_ |
+| **Partners** building on the platform | A platform, team and expertise to build on | _Talk to the team_ |
 
 **Calls to action (in priority order):** Partner with us · Book a demo ·
 See EVEcosys · Talk to the team. Contact is via email (`sdttech.co@gmail.com`).
@@ -51,24 +51,24 @@ See EVEcosys · Talk to the team. Contact is via email (`sdttech.co@gmail.com`).
 ## 4. Supporting messaging by section
 
 ### Hero metrics (generic, pre-launch)
-- **1** — Operating spine
-- **∞** — Categories to build
+- **1** — Unified platform
+- **∞** — Built to scale
 - **24/7** — Real-time by design
 
 ### Trust strip
 Built for operations across mobility, energy & logistics — EV Fleets · IoT
 Telemetry · Logistics · AI Ops.
 
-### The portfolio (Services)
-_One operating spine. A growing portfolio of ventures._
+### The product suite (Services)
+_One platform. A growing suite of operations products._
 - **Fleet Mobility · EVEcosys** _(Flagship)_ — flagship platform for end-to-end
   EV fleet electrification & operations.
 - **AI & Intelligence** _(Building)_ — agentic systems that read operational
   signal and recommend the next action.
 - **IoT & Edge** _(Building)_ — the device-to-cloud layer: normalized telemetry,
   data-confidence scoring, real-time alerting.
-- **What's next** _(Exploring)_ — energy, logistics, smart infrastructure, and
-  categories without a name yet.
+- **What's next** _(Exploring)_ — energy, logistics, smart infrastructure —
+  wherever operations run on real-world signal.
 
 ### Flagship — EVEcosys (Predictive Maintenance)
 EVEcosys is our flagship platform for intelligent fleet operations. At its core
@@ -84,7 +84,7 @@ and the manager's **Predictive Maintenance** board. Same data, the right view
 for the job.
 
 ### How we build (Approach)
-A spine built to launch the next venture faster.
+A platform built to ship the next product faster.
 1. **From the device up** — integrate at the edge so data is real and trustworthy.
 2. **One control plane** — every role, app and tenant routes through one secure,
    auditable plane; nothing touches the database directly.
@@ -101,9 +101,9 @@ Founded by operators and builders with deep roots in infrastructure, product
 design and green technology. (Bios reference public, non-sensitive credentials.)
 
 ### Closing CTA
-_Build the next venture with us._ Whether you're an operator who needs
-intelligent operations, an investor, or a founder with a category in mind —
-SDT brings the spine, the team and the playbook. Start with a look at EVEcosys.
+_Build what's next with us._ Whether you're an operator who needs intelligent
+operations, a partner, or an investor — SDT brings the platform, the team and
+the expertise. Start with a look at EVEcosys.
 
 ## 5. Security & disclosure notes
 
@@ -114,7 +114,7 @@ SDT brings the spine, the team and the playbook. Start with a look at EVEcosys.
   operational details. Commercial contact is a generic email, not a named
   individual or restricted channel.
 - **Proof points are safe for public use.** References point only to SDT's own
-  venture (EVEcosys) and publicly shareable team credentials.
+  platform (EVEcosys) and publicly shareable team credentials.
 
 ## 6. Localization
 

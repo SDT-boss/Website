@@ -10,14 +10,14 @@
       "bookDemo": "Pesan Demo"
     },
     "hero": {
-      "badge": "Perusahaan induk teknologi",
+      "badge": "Perusahaan teknologi operasi",
       "h1a": "Kami membangun sistem",
       "h1b": "yang menggerakkan dunia nyata.",
-      "lede": "SDT Technology adalah perusahaan induk yang membangun usaha operasi cerdas — dimulai dari mobilitas armada, lalu berkembang ke IoT, AI, dan kategori yang belum ada saat ini. Satu tulang punggung operasi; banyak bisnis di atasnya.",
+      "lede": "SDT Technology membangun perangkat lunak operasi cerdas pada satu platform yang sadar perangkat keras — dimulai dari mobilitas armada dan berkembang ke IoT, AI, dan logistik. Satu platform; rangkaian produk yang terus bertambah.",
       "cta1": "Jadi Mitra",
       "cta2": "Lihat EVEcosys",
-      "m1": "Tulang punggung operasi",
-      "m2": "Kategori untuk dibangun",
+      "m1": "Platform terpadu",
+      "m2": "Dibangun untuk skala",
       "m3": "Dirancang real-time"
     },
     "trust": {
@@ -28,20 +28,20 @@
       "l4": "Operasi AI"
     },
     "services": {
-      "eyebrow": "Portofolio",
-      "heading": "Satu tulang punggung operasi. Portofolio usaha yang terus berkembang.",
-      "body": "SDT membangun dan menskalakan bisnis operasi pada satu control plane yang sadar perangkat keras — aman, multi-tenant, AI-native. EVEcosys adalah platform unggulan kami, dibangun di atas tulang punggung ini — yang mendukung semua yang kami bangun.",
+      "eyebrow": "Rangkaian produk",
+      "heading": "Satu platform. Rangkaian produk operasi yang terus berkembang.",
+      "body": "SDT membangun dan menskalakan perangkat lunak operasi pada satu control plane yang sadar perangkat keras — aman, multi-tenant, AI-native. EVEcosys adalah platform unggulan kami, dibangun di atasnya — dan fondasi yang sama mendukung semua yang kami bangun.",
       "tagLive": "Unggulan",
       "tagBuild": "Dibangun",
       "tagExplore": "Eksplorasi",
       "s1Title": "Mobilitas Armada · EVEcosys",
-      "s1Body": "Usaha unggulan kami, dalam pengembangan aktif. Elektrifikasi & operasi armada EV menyeluruh — pelacakan langsung, perencanaan perjalanan, pengisian daya & pemeliharaan prediktif.",
+      "s1Body": "Platform unggulan kami. Elektrifikasi & operasi armada EV menyeluruh — pelacakan langsung, perencanaan perjalanan, pengisian daya & pemeliharaan prediktif.",
       "s2Title": "AI & Kecerdasan",
       "s2Body": "Sistem agentik yang membaca sinyal operasional, merangkumnya dalam bahasa sederhana, dan merekomendasikan tindakan berikutnya — asisten EVE yang diperluas melampaui armada.",
       "s3Title": "IoT & Edge",
       "s3Body": "Lapisan perangkat-ke-cloud di balik semua yang kami bangun — telemetri ternormalisasi, penilaian keandalan data langsung, dan peringatan real-time dari perangkat keras Anda.",
       "s4Title": "Apa selanjutnya",
-      "s4Body": "Energi, logistik, infrastruktur cerdas — dan kategori yang belum bernama. Jika berjalan dengan sinyal dunia nyata dan butuh operasi cerdas, tempatnya di tulang punggung kami."
+      "s4Body": "Energi, logistik, infrastruktur cerdas — di mana pun operasi berjalan dengan sinyal dunia nyata. Jika butuh operasi cerdas, tempatnya di platform kami."
     },
     "flagship": {
       "eyebrow": "EVEcosys · Pemeliharaan Prediktif",
@@ -72,8 +72,8 @@
     },
     "approach": {
       "eyebrow": "Cara kami membangun",
-      "heading": "Tulang punggung untuk meluncurkan usaha berikutnya lebih cepat.",
-      "body": "Setiap usaha yang kami mulai mewarisi fondasi yang sama — sehingga kami beralih dari ide ke produksi tanpa membangun ulang bagian yang sulit. Itulah mengapa armada lebih dulu, dan mengapa kategori berikutnya akan lebih cepat.",
+      "heading": "Platform untuk meluncurkan produk berikutnya lebih cepat.",
+      "body": "Setiap produk yang kami bangun mewarisi fondasi yang sama — sehingga kami beralih dari ide ke produksi tanpa membangun ulang bagian yang sulit. Itulah mengapa armada lebih dulu, dan mengapa yang berikutnya akan lebih cepat.",
       "p1Title": "Dari perangkat ke atas",
       "p1Body": "Kami berintegrasi di edge — kendaraan, charger, sensor — agar datanya nyata, tepat waktu, dan tepercaya sebelum mencapai dasbor.",
       "p2Title": "Satu control plane",
@@ -99,13 +99,13 @@
       "m4": "Berjalan di bandwidth rendah"
     },
     "cta": {
-      "heading": "Bangun usaha berikutnya bersama kami.",
-      "body": "Baik Anda operator yang butuh operasi cerdas, investor, atau pendiri dengan kategori di benak — SDT membawa tulang punggung, tim, dan playbook-nya. Mulai dengan melihat EVEcosys.",
+      "heading": "Bangun yang berikutnya bersama kami.",
+      "body": "Baik Anda operator yang butuh operasi cerdas, mitra, atau investor — SDT membawa platform, tim, dan keahliannya. Mulai dengan melihat EVEcosys.",
       "b1": "Jadi Mitra",
       "b2": "Hubungi tim"
     },
     "footer": {
-      "about": "Perusahaan induk teknologi yang membangun usaha operasi cerdas — dimulai dari mobilitas armada, berkembang ke AI, IoT, dan kategori yang belum ada.",
+      "about": "Perusahaan teknologi operasi yang membangun perangkat lunak cerdas pada satu platform yang sadar perangkat keras — dimulai dari mobilitas armada dan berkembang ke AI, IoT, dan logistik.",
       "col1": "Platform",
       "col2": "Perusahaan",
       "col3": "Mulai"
