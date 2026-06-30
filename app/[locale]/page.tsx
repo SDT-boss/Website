@@ -5,9 +5,9 @@ import { LandingNav } from "@/components/landing/LandingNav";
 import "../sdt-landing.css";
 
 export const metadata: Metadata = {
-  title: { absolute: "SDT Technology — Infrastructure for intelligent operations." },
+  title: { absolute: "SDT Technology · Infrastructure for intelligent operations." },
   description:
-    "SDT Technology is a holding company building intelligent operations ventures — starting with EVEcosys fleet mobility and expanding into IoT, AI and logistics.",
+    "SDT Technology is an operations technology company building intelligent operations software on one hardware-aware platform, starting with EVEcosys fleet mobility and expanding into IoT, AI and logistics.",
 };
 
 export function generateStaticParams() {

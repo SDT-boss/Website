@@ -18,8 +18,8 @@ const playfair = Playfair_Display({
 export const metadata: Metadata = {
   metadataBase: new URL("https://sdt.technology"),
   title: {
-    template: "%s — SDT tech",
-    default: "SDT tech — Infrastructure for intelligent operations.",
+    template: "%s · SDT tech",
+    default: "SDT tech · Infrastructure for intelligent operations.",
   },
   description:
     "SDT tech builds hardware-aware fleet mobility, IoT, logistics, and AI operations systems for enterprise operators.",
