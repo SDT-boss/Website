@@ -16,12 +16,12 @@
       "lede": "SDT Technology adalah perusahaan induk yang membangun usaha operasi cerdas — dimulai dari mobilitas armada, lalu berkembang ke IoT, AI, dan kategori yang belum ada saat ini. Satu tulang punggung operasi; banyak bisnis di atasnya.",
       "cta1": "Jadi Mitra",
       "cta2": "Lihat EVEcosys",
-      "m1": "Usaha aktif saat ini",
+      "m1": "Tulang punggung operasi",
       "m2": "Kategori untuk dibangun",
-      "m3": "Kantor pusat · melayani Asia Tenggara"
+      "m3": "Dirancang real-time"
     },
     "trust": {
-      "label": "Menggerakkan operasi di mobilitas, energi & logistik",
+      "label": "Dibangun untuk operasi di mobilitas, energi & logistik",
       "l1": "Armada EV",
       "l2": "Telemetri IoT",
       "l3": "Logistik",
@@ -30,12 +30,12 @@
     "services": {
       "eyebrow": "Portofolio",
       "heading": "Satu tulang punggung operasi. Portofolio usaha yang terus berkembang.",
-      "body": "SDT membangun dan menskalakan bisnis operasi pada satu control plane yang sadar perangkat keras — aman, multi-tenant, AI-native. EVEcosys membuktikan modelnya; tulang punggung yang sama mendukung apa pun yang kami bangun berikutnya.",
-      "tagLive": "Aktif",
+      "body": "SDT membangun dan menskalakan bisnis operasi pada satu control plane yang sadar perangkat keras — aman, multi-tenant, AI-native. EVEcosys adalah usaha pertama yang kami bangun di atasnya; tulang punggung yang sama dirancang untuk mendukung apa pun berikutnya.",
+      "tagLive": "Usaha pertama",
       "tagBuild": "Dibangun",
       "tagExplore": "Eksplorasi",
       "s1Title": "Mobilitas Armada · EVEcosys",
-      "s1Body": "Usaha unggulan kami, sudah produksi. Elektrifikasi & operasi armada EV menyeluruh — pelacakan langsung, perencanaan perjalanan, pengisian daya & pemeliharaan prediktif.",
+      "s1Body": "Usaha unggulan kami, dalam pengembangan aktif. Elektrifikasi & operasi armada EV menyeluruh — pelacakan langsung, perencanaan perjalanan, pengisian daya & pemeliharaan prediktif.",
       "s2Title": "AI & Kecerdasan",
       "s2Body": "Sistem agentik yang membaca sinyal operasional, merangkumnya dalam bahasa sederhana, dan merekomendasikan tindakan berikutnya — asisten EVE yang diperluas melampaui armada.",
       "s3Title": "IoT & Edge",
@@ -46,11 +46,11 @@
     "flagship": {
       "eyebrow": "Usaha pertama · Pemeliharaan Prediktif",
       "heading": "EVEcosys menangkap kegagalan sebelum kendaraan terhenti.",
-      "desc": "Usaha yang membuktikan model kami — sudah produksi hari ini. Intinya adalah <b>Mission Readiness Score</b> langsung: lima sinyal kesehatan berbobot per kendaraan yang mengubah telemetri mentah menjadi satu angka — siap berangkat, jalan dengan hati-hati, atau tarik untuk servis. EVE memprediksi kerusakan, membuat tiket, dan menjadwalkan bengkel sebelum menjadi waktu henti. Lapisan kecerdasan yang sama kini menggerakkan semua yang kami bangun.",
+      "desc": "Usaha pertama kami, dalam pengembangan aktif. Intinya adalah <b>Mission Readiness Score</b>: lima sinyal kesehatan berbobot per kendaraan yang mengubah telemetri mentah menjadi satu angka — siap berangkat, jalan dengan hati-hati, atau tarik untuk servis. EVE memprediksi kerusakan, membuat tiket, dan menjadwalkan bengkel sebelum menjadi waktu henti. Lapisan kecerdasan yang sama dirancang untuk menggerakkan semua yang kami bangun.",
       "b1Title": "Kesiapan prediktif",
       "b1Sub": "Skor kesehatan langsung 0–100, 5 sub-skor",
       "b2Title": "Tiket otomatis",
-      "b2Sub": "Kerusakan terdeteksi ~2 minggu lebih awal",
+      "b2Sub": "Dirancang menandai kerusakan ~2 minggu lebih awal",
       "b3Title": "Pelacakan langsung",
       "b3Sub": "Peta real-time, perjalanan & briefing rute",
       "b4Title": "Sadar peran",
@@ -60,7 +60,7 @@
     "showcase": {
       "eyebrow": "Di dalam platform",
       "heading": "Dirancang untuk dilihat — dan ditindaklanjuti.",
-      "body": "Dua antarmuka yang dipakai operator setiap hari: <b>Trip Planner</b> berbasis peta untuk pengemudi, dan papan <b>Pemeliharaan Prediktif</b> untuk manajer. Data yang sama, tampilan yang tepat.",
+      "body": "Dua antarmuka yang dirancang untuk operasi harian: <b>Trip Planner</b> berbasis peta untuk pengemudi, dan papan <b>Pemeliharaan Prediktif</b> untuk manajer. Data yang sama, tampilan yang tepat.",
       "h1": "Rute layar penuh, setiap perhentian berurutan.",
       "p1": "Pengemudi mendapat rute OpenStreetMap langsung dengan perhentian pengisian daya, pit-stop pemeliharaan, dan pergantian kendaraan wajib secara berurutan — plus perhentian berikutnya dan arah belok demi belok sekilas, di 3G, dengan sarung tangan.",
       "h2": "Seluruh armada, diurutkan dari yang paling butuh perhatian.",
@@ -93,9 +93,9 @@
       "m3Bio": "Insinyur yang berspesialisasi dalam teknologi hijau dan infrastruktur mobilitas bersih. Saat ini memimpin pelaksanaan proyek di jaringan pengisian EV, kapal listrik, dan platform mobilitas perkotaan di Asia Tenggara — berkembang dari infrastruktur energi lepas pantai ke garis depan teknologi bersih. Latar belakang awal mencakup manufaktur kedirgantaraan dan rekayasa material bangunan. Kedalaman pemahamannya atas sistem energi dan infrastruktur fisik membawa perspektif pembangun pada pendekatan SDT terhadap operasi cerdas."
     },
     "metrics": {
-      "m1": "Waktu aktif platform",
+      "m1": "Target waktu aktif",
       "m2": "Sub-skor kesiapan",
-      "m3": "Hingga keputusan berangkat",
+      "m3": "Target waktu keputusan",
       "m4": "Berjalan di bandwidth rendah"
     },
     "cta": {
@@ -128,7 +128,7 @@
     "approachEyebrow": "CARA KAMI BEKERJA",
     "approachHeading": "Dibangun berbeda, dengan sengaja.",
     "workEyebrow": "PEKERJAAN KAMI",
-    "workHeading": "Sudah diproduksi.",
+    "workHeading": "Dibangun untuk produksi.",
     "seeOurWork": "Lihat pekerjaan kami →",
     "footerCtaHeading": "Bangun usaha berikutnya bersama kami.",
     "footerCtaSub": "Baik Anda operator yang butuh operasi cerdas, investor, atau pendiri dengan kategori di benak — SDT membawa tulang punggung, tim, dan playbook-nya.",
@@ -207,10 +207,10 @@
   "work": {
     "pageTitle": "Pekerjaan",
     "pageEyebrow": "PEKERJAAN",
-    "pageSub": "Satu proyek sudah berjalan. Lebih banyak sedang dalam perjalanan.",
+    "pageSub": "Proyek pertama kami, dalam pengembangan aktif. Lebih banyak sedang dalam perjalanan.",
     "evFleetTitle": "Operasi Armada EV",
     "evFleetDesc": "Platform operasi end-to-end untuk armada kendaraan listrik — pelacakan real-time, manajemen pengisian daya, dan pengiriman.",
-    "evFleetExpandedDesc": "Menghubungkan telemetri GPS dari 40+ kendaraan dengan API stasiun pengisian daya depot untuk menampilkan status real-time di setiap layar operator. Dibangun untuk beroperasi tanpa gangguan di berbagai depot dan jadwal shift.",
+    "evFleetExpandedDesc": "Dirancang untuk menghubungkan telemetri GPS dari armada EV campuran dengan API stasiun pengisian daya depot, menampilkan status real-time di setiap layar operator — dan beroperasi tanpa gangguan di berbagai depot dan jadwal shift.",
     "evFleetTag1": "Armada",
     "evFleetTag2": "EV",
     "evFleetTag3": "Operasi"
@@ -227,7 +227,7 @@
     "belief3Title": "Sistem yang berkembang tanpa penulisan ulang",
     "belief3Body": "Kami membuat keputusan arsitektur lebih awal sehingga pilot tidak memerlukan pembangunan ulang dari awal untuk mencapai produksi. Yang berfungsi di satu depot harus berfungsi di sepuluh depot tanpa arsitektur ulang.",
     "currentFocusHeading": "Fokus Saat Ini",
-    "currentFocus": "Kami sedang dalam produksi penuh untuk operasi armada EV — kendaraan nyata, depot nyata, pengiriman nyata. Kami mengembangkan platform dengan hati-hati, satu masalah yang diselesaikan pada satu waktu. IoT, kecerdasan logistik, dan operasi AI adalah langkah berikutnya."
+    "currentFocus": "Kami sedang fokus membangun operasi armada EV — berlandaskan kendaraan nyata, depot nyata, pengiriman nyata. Kami mengembangkan platform dengan hati-hati, satu masalah yang diselesaikan pada satu waktu. IoT, kecerdasan logistik, dan operasi AI adalah langkah berikutnya."
   },
   "approach": {
     "item1Title": "Sadar perangkat keras",

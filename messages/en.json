@@ -16,12 +16,12 @@
       "lede": "SDT Technology is a holding company building intelligent operations ventures — starting with fleet mobility, and expanding into IoT, AI and the categories that don't exist yet. One operating spine; many businesses on top.",
       "cta1": "Partner with us",
       "cta2": "See EVEcosys",
-      "m1": "Venture live today",
+      "m1": "Operating spine",
       "m2": "Categories to build",
-      "m3": "HQ · serving SEA"
+      "m3": "Real-time by design"
     },
     "trust": {
-      "label": "Powering operations across mobility, energy & logistics",
+      "label": "Built for operations across mobility, energy & logistics",
       "l1": "EV Fleets",
       "l2": "IoT Telemetry",
       "l3": "Logistics",
@@ -30,12 +30,12 @@
     "services": {
       "eyebrow": "The portfolio",
       "heading": "One operating spine. A growing portfolio of ventures.",
-      "body": "SDT builds and scales operations businesses on a single hardware-aware control plane — secure, multi-tenant, AI-native. EVEcosys proved the model; the same spine carries whatever we build next.",
-      "tagLive": "Live today",
+      "body": "SDT builds and scales operations businesses on a single hardware-aware control plane — secure, multi-tenant, AI-native. EVEcosys is the first venture we're building on it; the same spine is designed to carry whatever comes next.",
+      "tagLive": "First venture",
       "tagBuild": "Building",
       "tagExplore": "Exploring",
       "s1Title": "Fleet Mobility · EVEcosys",
-      "s1Body": "Our flagship venture, in production. End-to-end EV fleet electrification & operations — live tracking, trip planning, charging & predictive maintenance.",
+      "s1Body": "Our flagship venture, in active development. End-to-end EV fleet electrification & operations — live tracking, trip planning, charging & predictive maintenance.",
       "s2Title": "AI & Intelligence",
       "s2Body": "Agentic systems that read operational signal, summarize it in plain language and recommend the next action — the EVE assistant generalized beyond fleets.",
       "s3Title": "IoT & Edge",
@@ -46,11 +46,11 @@
     "flagship": {
       "eyebrow": "First venture · Predictive Maintenance",
       "heading": "EVEcosys catches failures before they ground a vehicle.",
-      "desc": "The venture that proved our model — in production today. At its core is a live <b>Mission Readiness Score</b>: five weighted health signals per vehicle that turn raw telemetry into one number — ready to dispatch, run with caution, or pull for service. EVE predicts the fault, raises the ticket, and schedules the workshop before it becomes downtime. The same intelligence layer now powers everything else we build.",
+      "desc": "Our first venture, in active development. At its core is a <b>Mission Readiness Score</b>: five weighted health signals per vehicle that turn raw telemetry into one number — ready to dispatch, run with caution, or pull for service. EVE predicts the fault, raises the ticket, and schedules the workshop before it becomes downtime. The same intelligence layer is designed to power everything else we build.",
       "b1Title": "Predictive readiness",
       "b1Sub": "Live 0–100 health score, 5 sub-scores",
       "b2Title": "Auto-raised tickets",
-      "b2Sub": "Faults caught ~2 weeks ahead",
+      "b2Sub": "Designed to flag faults ~2 weeks ahead",
       "b3Title": "Live tracking",
       "b3Sub": "Real-time map, trips & route briefings",
       "b4Title": "Role-aware",
@@ -60,7 +60,7 @@
     "showcase": {
       "eyebrow": "Inside the platform",
       "heading": "Built to be looked at — and acted on.",
-      "body": "Two surfaces operators live in every day: the driver's map-led <b>Trip Planner</b>, and the manager's <b>Predictive Maintenance</b> board. Same data, the right view for the job.",
+      "body": "Two surfaces built for daily operations: the driver's map-led <b>Trip Planner</b>, and the manager's <b>Predictive Maintenance</b> board. Same data, the right view for the job.",
       "h1": "A full-screen route, every stop in order.",
       "p1": "Drivers get a live OpenStreetMap route with charging stops, maintenance pit-stops and forced vehicle swaps laid out in sequence — plus the next stop and turn-by-turn directions in a glance, on 3G, with gloves on.",
       "h2": "The whole fleet, sorted by what needs you first.",
@@ -93,9 +93,9 @@
       "m3Bio": "An engineer specialising in green technology and clean mobility infrastructure. Currently leads project delivery across EV charging networks, electric vessels and urban mobility platforms in Southeast Asia — progressing from offshore energy infrastructure to the clean-tech frontier. Earlier career spans aerospace manufacturing and building materials engineering. His depth across energy systems and physical infrastructure brings a builder's perspective to SDT's approach to intelligent operations."
     },
     "metrics": {
-      "m1": "Platform uptime",
+      "m1": "Uptime target",
       "m2": "Readiness sub-scores",
-      "m3": "To a dispatch decision",
+      "m3": "Target decision time",
       "m4": "Works on low bandwidth"
     },
     "cta": {
@@ -128,7 +128,7 @@
     "approachEyebrow": "HOW WE WORK",
     "approachHeading": "Built differently, on purpose.",
     "workEyebrow": "OUR WORK",
-    "workHeading": "Shipped to production.",
+    "workHeading": "Built for production.",
     "seeOurWork": "See our work →",
     "footerCtaHeading": "Build the next venture with us.",
     "footerCtaSub": "Whether you run operations that need intelligent software, you're an investor, or you're a founder with a category in mind — SDT brings the spine, the team and the playbook.",
@@ -207,10 +207,10 @@
   "work": {
     "pageTitle": "Work",
     "pageEyebrow": "WORK",
-    "pageSub": "One project in production. More on the way.",
+    "pageSub": "Our first project, in active development. More on the way.",
     "evFleetTitle": "EV Fleet Operations",
     "evFleetDesc": "End-to-end operations platform for an electric vehicle fleet — real-time tracking, charging management, and dispatch.",
-    "evFleetExpandedDesc": "Connects GPS telemetry from 40+ vehicles with depot charging station APIs to surface real-time state across every operator screen. Built to run without interruption across multiple depots and shift schedules.",
+    "evFleetExpandedDesc": "Designed to connect GPS telemetry from a mixed EV fleet with depot charging-station APIs, surfacing real-time state across every operator screen — and to run without interruption across multiple depots and shift schedules.",
     "evFleetTag1": "Fleet",
     "evFleetTag2": "EV",
     "evFleetTag3": "Operations"
@@ -227,7 +227,7 @@
     "belief3Title": "Systems that scale without a rewrite",
     "belief3Body": "We make architecture decisions early so pilots don't require a ground-up rebuild to reach production. What works across one depot should work across ten without rearchitecting.",
     "currentFocusHeading": "Current Focus",
-    "currentFocus": "We are deep in production on EV fleet operations — real vehicles, real depots, real dispatch. We are growing the platform deliberately, one solved problem at a time. IoT, logistics intelligence, and AI operations are next on the roadmap."
+    "currentFocus": "We are deep in building EV fleet operations — grounded in real vehicles, real depots, real dispatch. We are growing the platform deliberately, one solved problem at a time. IoT, logistics intelligence, and AI operations are next on the roadmap."
   },
   "approach": {
     "item1Title": "Hardware-aware",

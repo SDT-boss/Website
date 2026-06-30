@@ -7,7 +7,7 @@ import { GhostCard } from "@/components/work/GhostCard";
 export const metadata: Metadata = {
   title: "Work",
   description:
-    "Production deployments built by SDT tech. Starting with EV Fleet Operations — a live system managing electric vehicle fleets.",
+    "Projects in development at SDT tech. Starting with EV Fleet Operations — an end-to-end system for managing electric vehicle fleets.",
 };
 
 export function generateStaticParams() {

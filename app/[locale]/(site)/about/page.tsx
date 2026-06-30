@@ -8,7 +8,7 @@ import { FooterCTA } from "@/components/home/FooterCTA";
 export const metadata: Metadata = {
   title: "About",
   description:
-    "SDT tech builds infrastructure-grade software for operators who run complex systems at scale. Jakarta-based. Production-focused.",
+    "SDT tech builds infrastructure-grade software for operators who run complex systems at scale. Jakarta-based. Operator-focused.",
 };
 
 export function generateStaticParams() {

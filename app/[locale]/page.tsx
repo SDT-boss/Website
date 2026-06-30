@@ -75,7 +75,7 @@ export default async function Home({
                   <div className="l">{t("hero.m2")}</div>
                 </div>
                 <div className="m">
-                  <div className="n grad-text">Jakarta</div>
+                  <div className="n grad-text">24/7</div>
                   <div className="l">{t("hero.m3")}</div>
                 </div>
               </div>
