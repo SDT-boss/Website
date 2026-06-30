@@ -1,36 +1,22 @@
+import Image from "next/image";
+
 interface LogoMarkProps {
   size?: number;
   className?: string;
 }
 
+// SDT tech leaf mark. Served from /public/mark.png (transparent, works on any
+// background). The full logo lockup lives in the nav/footer via /logo-light.png.
 export function LogoMark({ size = 32, className }: LogoMarkProps) {
   return (
-    <svg
-      viewBox="0 0 36 36"
+    <Image
+      src="/mark.png"
+      alt="SDT tech"
       width={size}
       height={size}
-      xmlns="http://www.w3.org/2000/svg"
-      aria-hidden="true"
+      draggable={false}
       className={className}
-    >
-      {/* Cyber Jade leaf — bottom-right, renders behind */}
-      <ellipse
-        cx="24"
-        cy="24"
-        rx="6"
-        ry="10"
-        fill="#008684"
-        transform="rotate(35, 24, 24)"
-      />
-      {/* Volt Green leaf — top-left, renders on top */}
-      <ellipse
-        cx="12"
-        cy="12"
-        rx="6"
-        ry="10"
-        fill="#96D02C"
-        transform="rotate(35, 12, 12)"
-      />
-    </svg>
+      style={{ width: size, height: size, userSelect: "none" }}
+    />
   );
 }

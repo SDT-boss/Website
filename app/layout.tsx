@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import { Inter, Playfair_Display } from "next/font/google";
+import { AssetProtection } from "@/components/AssetProtection";
 import "./globals.css";
 
 const inter = Inter({
@@ -49,6 +50,7 @@ export default function RootLayout({
   return (
     <html lang="en" className={inter.variable}>
       <body className="bg-background text-white antialiased min-h-screen flex flex-col">
+        <AssetProtection />
         {children}
       </body>
     </html>

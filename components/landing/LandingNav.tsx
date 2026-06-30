@@ -1,5 +1,6 @@
 "use client";
 
+import Image from "next/image";
 import { useTranslations, useLocale } from "next-intl";
 import { usePathname, useRouter } from "@/i18n/navigation";
 
@@ -18,11 +19,16 @@ export function LandingNav() {
   return (
     <nav>
       <div className="wrap nav-in">
-        <a href="#platform" className="logo">
-          <span className="mk">
-            <span className="msym">hub</span>
-          </span>
-          SDT <small>Technology</small>
+        <a href="#platform" className="logo" aria-label="SDT tech — home">
+          <Image
+            src="/logo-light.png"
+            alt="SDT tech"
+            width={146}
+            height={67}
+            priority
+            draggable={false}
+            className="logo-img"
+          />
         </a>
         <div className="nav-links">
           <a href="#platform">{t("platform")}</a>

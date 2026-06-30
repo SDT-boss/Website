@@ -2,9 +2,9 @@
 
 import { useState, useEffect, useRef } from "react";
 import { Fragment } from "react";
+import Image from "next/image";
 import { usePathname, useRouter, Link } from "@/i18n/navigation";
 import { useLocale } from "next-intl";
-import { LogoMark } from "@/components/LogoMark";
 import { siteConfig } from "@/config/site";
 
 const NAV_LINKS = [
@@ -44,12 +44,16 @@ export function Navbar() {
       <div className="mx-auto max-w-content px-6 h-16 flex items-center justify-between gap-8">
 
         {/* Logo — using Link from @/i18n/navigation so it auto-prefixes locale */}
-        <Link href="/" className="flex items-center gap-2.5 shrink-0">
-          <LogoMark size={32} />
-          <span className="text-[15px] font-semibold tracking-tight leading-none">
-            <span className="text-white">{siteConfig.name} </span>
-            <span className="text-cyber-jade font-medium">tech</span>
-          </span>
+        <Link href="/" className="flex items-center shrink-0" aria-label={`${siteConfig.name} tech — home`}>
+          <Image
+            src="/logo-light.png"
+            alt={`${siteConfig.name} tech`}
+            width={146}
+            height={67}
+            priority
+            draggable={false}
+            className="h-8 w-auto select-none"
+          />
         </Link>
 
         {/* Desktop nav links — hidden below md */}

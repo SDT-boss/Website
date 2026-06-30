@@ -43,6 +43,7 @@
 .logo .mk { width: 34px; height: 34px; border-radius: 10px; background: var(--grad); display: flex; align-items: center; justify-content: center; box-shadow: 0 4px 14px rgba(124,194,66,.3); }
 .logo .mk .msym { color: #fff; font-size: 20px; }
 .logo small { font-weight: 500; opacity: .5; font-size: 11px; letter-spacing: .04em; margin-left: 2px; }
+.logo-img { height: 30px; width: auto; display: block; user-select: none; -webkit-user-drag: none; -webkit-touch-callout: none; }
 .nav-links { display: flex; gap: 4px; margin-left: 18px; }
 .nav-links a { color: rgba(255,255,255,.74); font-size: 14px; font-weight: 600; padding: 8px 14px; border-radius: 9999px; transition: color .15s, background .15s; }
 .nav-links a:hover { color: #fff; background: rgba(255,255,255,.08); }

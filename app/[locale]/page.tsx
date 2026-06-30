@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import Image from "next/image";
 import { getTranslations, setRequestLocale } from "next-intl/server";
 import { LandingNav } from "@/components/landing/LandingNav";
 import "../sdt-landing.css";
@@ -522,7 +523,9 @@ export default async function Home({
           <div className="wrap">
             <div className="foot-grid">
               <div className="about">
-                <a href="#platform" className="logo"><span className="mk"><span className="msym">hub</span></span>SDT <small>Technology</small></a>
+                <a href="#platform" className="logo" aria-label="SDT tech — home">
+                  <Image src="/logo-light.png" alt="SDT tech" width={146} height={67} draggable={false} className="logo-img" />
+                </a>
                 <p>{t("footer.about")}</p>
               </div>
               <div>

@@ -1,4 +1,4 @@
-import { LogoMark } from "@/components/LogoMark";
+import Image from "next/image";
 import { siteConfig } from "@/config/site";
 
 export function Footer() {
@@ -10,13 +10,16 @@ export function Footer() {
       {/* Main row */}
       <div className="mx-auto max-w-content px-6 py-10 flex flex-col md:flex-row md:items-center md:justify-between gap-6">
 
-        {/* Left: logo mark + name */}
-        <div className="flex items-center gap-2.5">
-          <LogoMark size={24} />
-          <span className="text-sm font-medium tracking-tight">
-            <span className="text-white">{siteConfig.name} </span>
-            <span className="text-cyber-jade">tech</span>
-          </span>
+        {/* Left: full logo lockup */}
+        <div className="flex items-center">
+          <Image
+            src="/logo-light.png"
+            alt={`${siteConfig.name} tech`}
+            width={146}
+            height={67}
+            draggable={false}
+            className="h-6 w-auto select-none"
+          />
         </div>
 
         {/* Right: email + tagline */}
