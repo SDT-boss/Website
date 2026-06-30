@@ -473,11 +473,11 @@ export default async function Home({
               </div>
               <div className="tcard">
                 <div className="tav" style={{ background: "linear-gradient(135deg,#7c3aed,#1a7080)" }}>
-                  {/* Swap initials for a photo: <img src="/team/shannen.jpg" alt="Shannen Tioniwar" /> */}
+                  {/* Swap initials for a photo: <img src="/team/shannen.jpg" alt="Shannen Dorothee" /> */}
                   <span className="ini">SH</span>
                 </div>
                 <div className="role">{t("team.m2Role")}</div>
-                <h3>Shannen Tioniwar</h3>
+                <h3>Shannen Dorothee</h3>
                 <p className="bio">{t("team.m2Bio")}</p>
                 <div className="tags">
                   <span className="tag">IoT &amp; Connected Systems</span>
@@ -488,11 +488,11 @@ export default async function Home({
               </div>
               <div className="tcard">
                 <div className="tav" style={{ background: "linear-gradient(135deg,#5a9e2f,#1a7080)" }}>
-                  {/* Swap initials for a photo: <img src="/team/samuel.jpg" alt="Samuel Tioniwar" /> */}
+                  {/* Swap initials for a photo: <img src="/team/samuel.jpg" alt="Samuel Davis" /> */}
                   <span className="ini">SD</span>
                 </div>
                 <div className="role">{t("team.m3Role")}</div>
-                <h3>Samuel Tioniwar</h3>
+                <h3>Samuel Davis</h3>
                 <p className="bio">{t("team.m3Bio")}</p>
                 <div className="tags">
                   <span className="tag">EV Infrastructure</span>
