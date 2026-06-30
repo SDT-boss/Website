@@ -483,7 +483,6 @@ export default async function Home({
                   <span className="tag">IoT &amp; Connected Systems</span>
                   <span className="tag">Data Applications</span>
                   <span className="tag">Product Strategy</span>
-                  <span className="tag">University of Edinburgh</span>
                 </div>
               </div>
               <div className="tcard">
